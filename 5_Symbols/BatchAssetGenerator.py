@@ -31,7 +31,9 @@ def main():
     # Define paths
     base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
     config_path = os.path.join(base_dir, '3_Simulation', 'Feb1', '_source', 'batch_generation_data.yaml')
-    output_base_dir = os.path.join(base_dir, '3_Simulation', 'Feb1', 'Assets')
+    # User requested specific download folders
+    videos_base_dir = os.path.join(base_dir, '3_Simulation', 'Feb1', 'StockVideos')
+    images_base_dir = os.path.join(base_dir, '3_Simulation', 'Feb1', 'StockImages')
     
     # Load config
     print(f"Loading config from {config_path}...")
@@ -59,26 +61,53 @@ def main():
         title = section.get('title')
         print(f"\nProcessing section: {section_id} - {title}")
         
-        # Create output directories
-        section_dir = os.path.join(output_base_dir, section_id)
-        videos_dir = os.path.join(section_dir, 'videos')
-        images_dir = os.path.join(section_dir, 'images')
+        # Create output directories for this section
+        section_videos_dir = os.path.join(videos_base_dir, section_id)
+        section_images_dir = os.path.join(images_base_dir, section_id)
         
-        os.makedirs(videos_dir, exist_ok=True)
-        os.makedirs(images_dir, exist_ok=True)
+        os.makedirs(section_videos_dir, exist_ok=True)
+        os.makedirs(section_images_dir, exist_ok=True)
         
         # Process Videos
         video_keywords = section.get('video_keywords', [])
         for keyword in video_keywords[:3]: # Limit to first 3 keywords
             print(f"  Searching videos for: {keyword}")
-            results = fetcher.search_videos(keyword, per_page=2, orientation='landscape', size='medium')
+            results = fetcher.search_videos(keyword, per_page=1, orientation='landscape', size='medium')
             
             if results and results.get('videos'):
                 for video in results['videos']:
                     fetcher.display_video_info(video)
-                    # In a real batch downloader, we would download the file here.
-                    # For now, we save the metadata.
-                    meta_file = os.path.join(videos_dir, f"{video['id']}_meta.json")
+                    
+                    # Download video
+                    video_files = video.get('video_files', [])
+                    if video_files:
+                        # Sort by width to get best quality (descending)
+                        video_files.sort(key=lambda x: x.get('width', 0), reverse=True)
+                        best_video = video_files[0]
+                        download_url = best_video.get('link')
+                        
+                        if download_url:
+                            filename = f"{video['id']}.mp4"
+                            filepath = os.path.join(section_videos_dir, filename)
+                            
+                            # Download if not exists
+                            if not os.path.exists(filepath):
+                                print(f"    Downloading video to {filepath}...")
+                                try:
+                                    import requests
+                                    with requests.get(download_url, stream=True) as r:
+                                        r.raise_for_status()
+                                        with open(filepath, 'wb') as f:
+                                            for chunk in r.iter_content(chunk_size=8192):
+                                                f.write(chunk)
+                                    print("    Download complete.")
+                                except Exception as e:
+                                    print(f"    Error downloading video: {e}")
+                            else:
+                                print(f"    Video already exists at {filepath}")
+                                
+                    # Save metadata
+                    meta_file = os.path.join(section_videos_dir, f"{video['id']}_meta.json")
                     with open(meta_file, 'w') as f:
                         json.dump(video, f, indent=2)
             else:
@@ -88,13 +117,36 @@ def main():
         image_keywords = section.get('image_keywords', [])
         for keyword in image_keywords[:3]: # Limit to first 3 keywords
             print(f"  Searching images for: {keyword}")
-            results = fetcher.search_photos(keyword, per_page=2, orientation='landscape', size='medium')
+            results = fetcher.search_photos(keyword, per_page=1, orientation='landscape', size='medium')
             
             if results and results.get('photos'):
                 for photo in results['photos']:
                     fetcher.display_photo_info(photo)
-                    # Similarly, save metadata
-                    meta_file = os.path.join(images_dir, f"{photo['id']}_meta.json")
+                    
+                    # Download photo
+                    download_url = photo.get('src', {}).get('original')
+                    if download_url:
+                        filename = f"{photo['id']}.jpg"
+                        filepath = os.path.join(section_images_dir, filename)
+                        
+                        # Download if not exists
+                        if not os.path.exists(filepath):
+                            print(f"    Downloading photo to {filepath}...")
+                            try:
+                                import requests
+                                with requests.get(download_url, stream=True) as r:
+                                    r.raise_for_status()
+                                    with open(filepath, 'wb') as f:
+                                        for chunk in r.iter_content(chunk_size=8192):
+                                            f.write(chunk)
+                                print("    Download complete.")
+                            except Exception as e:
+                                print(f"    Error downloading photo: {e}")
+                        else:
+                            print(f"    Photo already exists at {filepath}")
+
+                    # Save metadata
+                    meta_file = os.path.join(section_images_dir, f"{photo['id']}_meta.json")
                     with open(meta_file, 'w') as f:
                         json.dump(photo, f, indent=2)
             else:
