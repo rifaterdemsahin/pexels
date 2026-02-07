@@ -76,22 +76,25 @@ def test_get_video_by_id():
     print("-" * 50)
     try:
         fetcher = PexelsVideoFetcher()
-        # First, get a video ID from search results
-        results = fetcher.search_videos("nature", per_page=1)
+        # First, get multiple video IDs from search results
+        results = fetcher.search_videos("nature", per_page=5)
         
         if not results or not results.get('videos'):
-            print("✗ Could not get test video ID")
+            print("✗ Could not get test video IDs")
             return False
         
-        video_id = results['videos'][0]['id']
-        video = fetcher.get_video_by_id(video_id)
+        # Try multiple videos in case some are unavailable
+        for video_candidate in results['videos']:
+            video_id = video_candidate['id']
+            video = fetcher.get_video_by_id(video_id)
+            
+            if video and video.get('id') == video_id:
+                print(f"✓ Successfully retrieved video with ID {video_id}")
+                return True
         
-        if video and video.get('id') == video_id:
-            print(f"✓ Successfully retrieved video with ID {video_id}")
-            return True
-        else:
-            print(f"✗ Failed to retrieve video with ID {video_id}")
-            return False
+        # If none of the videos could be retrieved, the test fails
+        print("✗ Could not retrieve any video by ID (all attempted IDs returned errors)")
+        return False
     except Exception as e:
         print(f"✗ Failed with error: {e}")
         return False
