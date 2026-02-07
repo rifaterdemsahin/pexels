@@ -16,7 +16,7 @@ load_dotenv()
 class PexelsVideoFetcher:
     """Handles fetching videos from the Pexels API."""
     
-    BASE_URL = "https://api.pexels.com/videos"
+    BASE_URL = "https://api.pexels.com"
     
     def __init__(self, api_key=None):
         """
@@ -51,7 +51,7 @@ class PexelsVideoFetcher:
         Returns:
             dict: API response containing video results
         """
-        url = f"{self.BASE_URL}/search"
+        url = f"{self.BASE_URL}/videos/search"
         params = {
             'query': query,
             'per_page': per_page,
@@ -82,7 +82,7 @@ class PexelsVideoFetcher:
         Returns:
             dict: API response containing popular video results
         """
-        url = f"{self.BASE_URL}/popular"
+        url = f"{self.BASE_URL}/videos/popular"
         params = {
             'per_page': per_page,
             'page': page

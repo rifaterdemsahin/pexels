@@ -112,6 +112,7 @@ pexels/
 ├── .gitignore            # Git ignore file (excludes .env)
 ├── requirements.txt      # Python dependencies
 ├── pexels_video_fetcher.py  # Main Python script
+├── examples.py           # Example usage scripts
 ├── GITHUB_ACTIONS_SETUP.md  # GitHub Actions configuration guide
 └── README.md            # This file
 ```
