@@ -87,7 +87,8 @@ def main():
                         download_url = best_video.get('link')
                         
                         if download_url:
-                            filename = f"{video['id']}.mp4"
+                            # Prefix filename with section_id
+                            filename = f"{section_id}_{video['id']}.mp4"
                             filepath = os.path.join(section_videos_dir, filename)
                             
                             # Download if not exists
@@ -107,7 +108,7 @@ def main():
                                 print(f"    Video already exists at {filepath}")
                                 
                     # Save metadata
-                    meta_file = os.path.join(section_videos_dir, f"{video['id']}_meta.json")
+                    meta_file = os.path.join(section_videos_dir, f"{section_id}_{video['id']}_meta.json")
                     with open(meta_file, 'w') as f:
                         json.dump(video, f, indent=2)
             else:
@@ -126,7 +127,8 @@ def main():
                     # Download photo
                     download_url = photo.get('src', {}).get('original')
                     if download_url:
-                        filename = f"{photo['id']}.jpg"
+                        # Prefix filename with section_id
+                        filename = f"{section_id}_{photo['id']}.jpg"
                         filepath = os.path.join(section_images_dir, filename)
                         
                         # Download if not exists
@@ -146,7 +148,7 @@ def main():
                             print(f"    Photo already exists at {filepath}")
 
                     # Save metadata
-                    meta_file = os.path.join(section_images_dir, f"{photo['id']}_meta.json")
+                    meta_file = os.path.join(section_images_dir, f"{section_id}_{photo['id']}_meta.json")
                     with open(meta_file, 'w') as f:
                         json.dump(photo, f, indent=2)
             else:
