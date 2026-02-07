@@ -4,7 +4,7 @@
 
 To use the Pexels API in GitHub Actions workflows, you need to add your API key as a secret:
 
-### Steps to Add Secret:
+### Steps to Add Secret
 
 1. Go to your GitHub repository
 2. Click on **Settings**
@@ -12,7 +12,7 @@ To use the Pexels API in GitHub Actions workflows, you need to add your API key 
 4. Click **New repository secret**
 5. Add the following secret:
    - **Name**: `PEXELS_API_KEY`
-   - **Value**: Your Pexels API key from https://www.pexels.com/api/
+   - **Value**: Your Pexels API key from <https://www.pexels.com/api/>
 
 ### Using the Secret in Workflows
 
@@ -43,7 +43,7 @@ jobs:
         env:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
-          python pexels_video_fetcher.py
+          python 5_Symbols/pexels_video_fetcher.py
 ```
 
 ## Security Best Practices
@@ -57,6 +57,7 @@ jobs:
 ## Environment Variables
 
 The script looks for the API key in the following order:
+
 1. Constructor parameter (if provided)
 2. `PEXELS_API_KEY` environment variable
 3. `.env` file (loaded automatically by python-dotenv)

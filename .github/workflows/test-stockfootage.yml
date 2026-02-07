@@ -25,15 +25,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       
-      - name: Run stock footage test script
+      - name: Run sample test run
         env:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
-          python test_stockfootage.py
+          python 7_Testing_known/sample_test_run.py
       
       - name: Test main script (dry run)
         env:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
           echo "Testing main pexels_video_fetcher.py script..."
-          python pexels_video_fetcher.py
+          python 5_Symbols/pexels_video_fetcher.py
