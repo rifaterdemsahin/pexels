@@ -1,0 +1,22 @@
+{
+  "id": 31343630,
+  "width": 4200,
+  "height": 3712,
+  "url": "https://www.pexels.com/photo/colorful-javascript-code-on-monitor-screen-31343630/",
+  "photographer": "Rashed Paykary",
+  "photographer_url": "https://www.pexels.com/@peaky",
+  "photographer_id": 651918864,
+  "avg_color": "#13111F",
+  "src": {
+    "original": "https://images.pexels.com/photos/31343630/pexels-photo-31343630.jpeg",
+    "large2x": "https://images.pexels.com/photos/31343630/pexels-photo-31343630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "large": "https://images.pexels.com/photos/31343630/pexels-photo-31343630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "medium": "https://images.pexels.com/photos/31343630/pexels-photo-31343630.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "small": "https://images.pexels.com/photos/31343630/pexels-photo-31343630.jpeg?auto=compress&cs=tinysrgb&h=130",
+    "portrait": "https://images.pexels.com/photos/31343630/pexels-photo-31343630.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+    "landscape": "https://images.pexels.com/photos/31343630/pexels-photo-31343630.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tiny": "https://images.pexels.com/photos/31343630/pexels-photo-31343630.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+  },
+  "liked": false,
+  "alt": "Close-up of colorful JavaScript code displayed on a computer monitor, ideal for tech-themed projects."
+}

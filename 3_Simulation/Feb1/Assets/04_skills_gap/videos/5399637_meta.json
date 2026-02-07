@@ -1,0 +1,165 @@
+{
+  "id": 5399637,
+  "width": 3840,
+  "height": 2160,
+  "duration": 7,
+  "full_res": null,
+  "tags": [],
+  "url": "https://www.pexels.com/video/a-person-flips-the-store-open-signage-5399637/",
+  "image": "https://images.pexels.com/videos/5399637/pexels-photo-5399637.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+  "avg_color": null,
+  "user": {
+    "id": 3518023,
+    "name": "Amina Filkins",
+    "url": "https://www.pexels.com/@amina-filkins"
+  },
+  "video_files": [
+    {
+      "id": 9690601,
+      "quality": "sd",
+      "file_type": "video/mp4",
+      "width": 960,
+      "height": 540,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/5399637/5399637-sd_960_540_25fps.mp4",
+      "size": 1255683
+    },
+    {
+      "id": 9690653,
+      "quality": "sd",
+      "file_type": "video/mp4",
+      "width": 640,
+      "height": 360,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/5399637/5399637-sd_640_360_25fps.mp4",
+      "size": 433556
+    },
+    {
+      "id": 9690669,
+      "quality": "hd",
+      "file_type": "video/mp4",
+      "width": 1920,
+      "height": 1080,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/5399637/5399637-hd_1920_1080_25fps.mp4",
+      "size": 4218445
+    },
+    {
+      "id": 9690727,
+      "quality": "uhd",
+      "file_type": "video/mp4",
+      "width": 3840,
+      "height": 2160,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/5399637/5399637-uhd_3840_2160_25fps.mp4",
+      "size": 19413346
+    },
+    {
+      "id": 9690752,
+      "quality": "uhd",
+      "file_type": "video/mp4",
+      "width": 2560,
+      "height": 1440,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/5399637/5399637-uhd_2560_1440_25fps.mp4",
+      "size": 10621044
+    },
+    {
+      "id": 9690870,
+      "quality": "hd",
+      "file_type": "video/mp4",
+      "width": 1280,
+      "height": 720,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/5399637/5399637-hd_1280_720_25fps.mp4",
+      "size": 2145174
+    },
+    {
+      "id": 9690991,
+      "quality": "sd",
+      "file_type": "video/mp4",
+      "width": 426,
+      "height": 240,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/5399637/5399637-sd_426_240_25fps.mp4",
+      "size": 263018
+    }
+  ],
+  "video_pictures": [
+    {
+      "id": 2767938,
+      "nr": 0,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-0.jpg"
+    },
+    {
+      "id": 2767951,
+      "nr": 1,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-1.jpg"
+    },
+    {
+      "id": 2767972,
+      "nr": 2,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-2.jpg"
+    },
+    {
+      "id": 2767994,
+      "nr": 3,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-3.jpg"
+    },
+    {
+      "id": 2768016,
+      "nr": 4,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-4.jpg"
+    },
+    {
+      "id": 2768039,
+      "nr": 5,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-5.jpg"
+    },
+    {
+      "id": 2768062,
+      "nr": 6,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-6.jpg"
+    },
+    {
+      "id": 2768084,
+      "nr": 7,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-7.jpg"
+    },
+    {
+      "id": 2768102,
+      "nr": 8,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-8.jpg"
+    },
+    {
+      "id": 2768120,
+      "nr": 9,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-9.jpg"
+    },
+    {
+      "id": 2768135,
+      "nr": 10,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-10.jpg"
+    },
+    {
+      "id": 2768152,
+      "nr": 11,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-11.jpg"
+    },
+    {
+      "id": 2768173,
+      "nr": 12,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-12.jpg"
+    },
+    {
+      "id": 2768191,
+      "nr": 13,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-13.jpg"
+    },
+    {
+      "id": 2768207,
+      "nr": 14,
+      "picture": "https://images.pexels.com/videos/5399637/pictures/preview-14.jpg"
+    }
+  ]
+}

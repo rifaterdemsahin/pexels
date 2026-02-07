@@ -1,0 +1,165 @@
+{
+  "id": 5404704,
+  "width": 3840,
+  "height": 2160,
+  "duration": 6,
+  "full_res": null,
+  "tags": [],
+  "url": "https://www.pexels.com/video/a-door-sign-indication-when-store-is-open-or-closed-5404704/",
+  "image": "https://images.pexels.com/videos/5404704/pexels-photo-5404704.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+  "avg_color": null,
+  "user": {
+    "id": 3518023,
+    "name": "Amina Filkins",
+    "url": "https://www.pexels.com/@amina-filkins"
+  },
+  "video_files": [
+    {
+      "id": 9690922,
+      "quality": "sd",
+      "file_type": "video/mp4",
+      "width": 960,
+      "height": 540,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/5404704/5404704-sd_960_540_25fps.mp4",
+      "size": 1061210
+    },
+    {
+      "id": 9691182,
+      "quality": "uhd",
+      "file_type": "video/mp4",
+      "width": 2560,
+      "height": 1440,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/5404704/5404704-uhd_2560_1440_25fps.mp4",
+      "size": 9350599
+    },
+    {
+      "id": 9691334,
+      "quality": "sd",
+      "file_type": "video/mp4",
+      "width": 426,
+      "height": 240,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/5404704/5404704-sd_426_240_25fps.mp4",
+      "size": 220517
+    },
+    {
+      "id": 9691681,
+      "quality": "hd",
+      "file_type": "video/mp4",
+      "width": 1920,
+      "height": 1080,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/5404704/5404704-hd_1920_1080_25fps.mp4",
+      "size": 3763112
+    },
+    {
+      "id": 9691866,
+      "quality": "hd",
+      "file_type": "video/mp4",
+      "width": 1280,
+      "height": 720,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/5404704/5404704-hd_1280_720_25fps.mp4",
+      "size": 1896617
+    },
+    {
+      "id": 9692033,
+      "quality": "uhd",
+      "file_type": "video/mp4",
+      "width": 3840,
+      "height": 2160,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/5404704/5404704-uhd_3840_2160_25fps.mp4",
+      "size": 17073217
+    },
+    {
+      "id": 9692088,
+      "quality": "sd",
+      "file_type": "video/mp4",
+      "width": 640,
+      "height": 360,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/5404704/5404704-sd_640_360_25fps.mp4",
+      "size": 353120
+    }
+  ],
+  "video_pictures": [
+    {
+      "id": 2776672,
+      "nr": 0,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-0.jpg"
+    },
+    {
+      "id": 2776683,
+      "nr": 1,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-1.jpg"
+    },
+    {
+      "id": 2776698,
+      "nr": 2,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-2.jpg"
+    },
+    {
+      "id": 2776719,
+      "nr": 3,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-3.jpg"
+    },
+    {
+      "id": 2776741,
+      "nr": 4,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-4.jpg"
+    },
+    {
+      "id": 2776760,
+      "nr": 5,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-5.jpg"
+    },
+    {
+      "id": 2776782,
+      "nr": 6,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-6.jpg"
+    },
+    {
+      "id": 2776802,
+      "nr": 7,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-7.jpg"
+    },
+    {
+      "id": 2776820,
+      "nr": 8,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-8.jpg"
+    },
+    {
+      "id": 2776840,
+      "nr": 9,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-9.jpg"
+    },
+    {
+      "id": 2776863,
+      "nr": 10,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-10.jpg"
+    },
+    {
+      "id": 2776877,
+      "nr": 11,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-11.jpg"
+    },
+    {
+      "id": 2776891,
+      "nr": 12,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-12.jpg"
+    },
+    {
+      "id": 2776904,
+      "nr": 13,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-13.jpg"
+    },
+    {
+      "id": 2776919,
+      "nr": 14,
+      "picture": "https://images.pexels.com/videos/5404704/pictures/preview-14.jpg"
+    }
+  ]
+}

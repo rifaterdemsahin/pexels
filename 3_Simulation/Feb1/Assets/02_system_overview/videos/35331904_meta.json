@@ -1,0 +1,115 @@
+{
+  "id": 35331904,
+  "width": 3840,
+  "height": 2160,
+  "duration": 8,
+  "full_res": null,
+  "tags": [],
+  "url": "https://www.pexels.com/video/focused-freelancer-working-in-cozy-home-office-35331904/",
+  "image": "https://images.pexels.com/videos/35331904/pexels-photo-35331904.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+  "avg_color": null,
+  "user": {
+    "id": 3372513,
+    "name": "Artem Shutkin",
+    "url": "https://www.pexels.com/@djiyvlom"
+  },
+  "video_files": [
+    {
+      "id": 14970141,
+      "quality": null,
+      "file_type": "video/mp4",
+      "width": 640,
+      "height": 360,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/35331904/14970141_640_360_25fps.mp4",
+      "size": 448383
+    },
+    {
+      "id": 14970144,
+      "quality": null,
+      "file_type": "video/mp4",
+      "width": 960,
+      "height": 540,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/35331904/14970144_960_540_25fps.mp4",
+      "size": 816396
+    },
+    {
+      "id": 14970146,
+      "quality": null,
+      "file_type": "video/mp4",
+      "width": 1280,
+      "height": 720,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/35331904/14970146_1280_720_25fps.mp4",
+      "size": 1262548
+    },
+    {
+      "id": 14970148,
+      "quality": null,
+      "file_type": "video/mp4",
+      "width": 1920,
+      "height": 1080,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/35331904/14970148_1920_1080_25fps.mp4",
+      "size": 2453937
+    },
+    {
+      "id": 14970151,
+      "quality": null,
+      "file_type": "video/mp4",
+      "width": 2560,
+      "height": 1440,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/35331904/14970151_2560_1440_25fps.mp4",
+      "size": 4022452
+    },
+    {
+      "id": 14970153,
+      "quality": null,
+      "file_type": "video/mp4",
+      "width": 3840,
+      "height": 2160,
+      "fps": 25.0,
+      "link": "https://videos.pexels.com/video-files/35331904/14970153_3840_2160_25fps.mp4",
+      "size": 8653851
+    }
+  ],
+  "video_pictures": [
+    {
+      "id": 29726237,
+      "nr": 0,
+      "picture": "https://images.pexels.com/videos/35331904/pictures/preview-0.jpg"
+    },
+    {
+      "id": 29726238,
+      "nr": 1,
+      "picture": "https://images.pexels.com/videos/35331904/pictures/preview-1.jpg"
+    },
+    {
+      "id": 29726239,
+      "nr": 2,
+      "picture": "https://images.pexels.com/videos/35331904/pictures/preview-2.jpg"
+    },
+    {
+      "id": 29726240,
+      "nr": 3,
+      "picture": "https://images.pexels.com/videos/35331904/pictures/preview-3.jpg"
+    },
+    {
+      "id": 29726241,
+      "nr": 4,
+      "picture": "https://images.pexels.com/videos/35331904/pictures/preview-4.jpg"
+    },
+    {
+      "id": 29726242,
+      "nr": 5,
+      "picture": "https://images.pexels.com/videos/35331904/pictures/preview-5.jpg"
+    },
+    {
+      "id": 29726243,
+      "nr": 6,
+      "picture": "https://images.pexels.com/videos/35331904/pictures/preview-6.jpg"
+    }
+  ]
+}

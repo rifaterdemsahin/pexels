@@ -70,6 +70,43 @@ class PexelsVideoFetcher:
         except requests.exceptions.RequestException as e:
             print(f"Error fetching videos: {e}")
             return None
+
+    def search_photos(self, query, per_page=15, page=1, orientation=None, size=None, color=None):
+        """
+        Search for photos on Pexels.
+        
+        Args:
+            query (str): Search query
+            per_page (int): Number of results per page (default: 15, max: 80)
+            page (int): Page number (default: 1)
+            orientation (str): 'landscape', 'portrait', or 'square'
+            size (str): 'large', 'medium', or 'small'
+            color (str): 'red', 'orange', 'yellow', etc. or hex code
+            
+        Returns:
+            dict: API response containing photo results
+        """
+        url = "https://api.pexels.com/v1/search" # Photo API endpoint is different base usually v1
+        params = {
+            'query': query,
+            'per_page': per_page,
+            'page': page
+        }
+        
+        if orientation:
+            params['orientation'] = orientation
+        if size:
+            params['size'] = size
+        if color:
+            params['color'] = color
+            
+        try:
+            response = requests.get(url, headers=self.headers, params=params)
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            print(f"Error fetching photos: {e}")
+            return None
     
     def get_popular_videos(self, per_page=15, page=1):
         """
@@ -138,6 +175,22 @@ class PexelsVideoFetcher:
                 print(f"  {i}. Quality: {vf.get('quality')}, "
                       f"Width: {vf.get('width')}px, "
                       f"Link: {vf.get('link')}")
+        print(f"{'='*60}\n")
+
+    def display_photo_info(self, photo):
+        """
+        Display formatted information about a photo.
+        
+        Args:
+            photo (dict): Photo data from API response
+        """
+        print(f"\n{'='*60}")
+        print(f"Photo ID: {photo.get('id')}")
+        print(f"Width: {photo.get('width')}px")
+        print(f"Height: {photo.get('height')}px")
+        print(f"Photographer: {photo.get('photographer')}")
+        print(f"URL: {photo.get('url')}")
+        print(f"Src Original: {photo.get('src', {}).get('original')}")
         print(f"{'='*60}\n")
 
 

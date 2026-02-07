@@ -1,0 +1,165 @@
+{
+  "id": 7140928,
+  "width": 3840,
+  "height": 2160,
+  "duration": 9,
+  "full_res": null,
+  "tags": [],
+  "url": "https://www.pexels.com/video/close-up-of-a-cpu-7140928/",
+  "image": "https://images.pexels.com/videos/7140928/pexels-photo-7140928.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+  "avg_color": null,
+  "user": {
+    "id": 12653218,
+    "name": "MrColo",
+    "url": "https://www.pexels.com/@mrcolo-12653218"
+  },
+  "video_files": [
+    {
+      "id": 10329142,
+      "quality": "sd",
+      "file_type": "video/mp4",
+      "width": 426,
+      "height": 240,
+      "fps": 24.0,
+      "link": "https://videos.pexels.com/video-files/7140928/7140928-sd_426_240_24fps.mp4",
+      "size": 441830
+    },
+    {
+      "id": 10329243,
+      "quality": "sd",
+      "file_type": "video/mp4",
+      "width": 960,
+      "height": 540,
+      "fps": 24.0,
+      "link": "https://videos.pexels.com/video-files/7140928/7140928-sd_960_540_24fps.mp4",
+      "size": 2137442
+    },
+    {
+      "id": 10329306,
+      "quality": "uhd",
+      "file_type": "video/mp4",
+      "width": 3840,
+      "height": 2160,
+      "fps": 24.0,
+      "link": "https://videos.pexels.com/video-files/7140928/7140928-uhd_3840_2160_24fps.mp4",
+      "size": 26407412
+    },
+    {
+      "id": 10329403,
+      "quality": "uhd",
+      "file_type": "video/mp4",
+      "width": 2560,
+      "height": 1440,
+      "fps": 24.0,
+      "link": "https://videos.pexels.com/video-files/7140928/7140928-uhd_2560_1440_24fps.mp4",
+      "size": 15410632
+    },
+    {
+      "id": 10329497,
+      "quality": "hd",
+      "file_type": "video/mp4",
+      "width": 1920,
+      "height": 1080,
+      "fps": 24.0,
+      "link": "https://videos.pexels.com/video-files/7140928/7140928-hd_1920_1080_24fps.mp4",
+      "size": 6448036
+    },
+    {
+      "id": 10329598,
+      "quality": "sd",
+      "file_type": "video/mp4",
+      "width": 640,
+      "height": 360,
+      "fps": 24.0,
+      "link": "https://videos.pexels.com/video-files/7140928/7140928-sd_640_360_24fps.mp4",
+      "size": 719279
+    },
+    {
+      "id": 10329669,
+      "quality": "hd",
+      "file_type": "video/mp4",
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "link": "https://videos.pexels.com/video-files/7140928/7140928-hd_1280_720_24fps.mp4",
+      "size": 3472301
+    }
+  ],
+  "video_pictures": [
+    {
+      "id": 5819535,
+      "nr": 0,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-0.jpg"
+    },
+    {
+      "id": 5819537,
+      "nr": 1,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-1.jpg"
+    },
+    {
+      "id": 5819538,
+      "nr": 2,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-2.jpg"
+    },
+    {
+      "id": 5819540,
+      "nr": 3,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-3.jpg"
+    },
+    {
+      "id": 5819542,
+      "nr": 4,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-4.jpg"
+    },
+    {
+      "id": 5819545,
+      "nr": 5,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-5.jpg"
+    },
+    {
+      "id": 5819546,
+      "nr": 6,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-6.jpg"
+    },
+    {
+      "id": 5819548,
+      "nr": 7,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-7.jpg"
+    },
+    {
+      "id": 5819550,
+      "nr": 8,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-8.jpg"
+    },
+    {
+      "id": 5819551,
+      "nr": 9,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-9.jpg"
+    },
+    {
+      "id": 5819552,
+      "nr": 10,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-10.jpg"
+    },
+    {
+      "id": 5819555,
+      "nr": 11,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-11.jpg"
+    },
+    {
+      "id": 5819557,
+      "nr": 12,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-12.jpg"
+    },
+    {
+      "id": 5819559,
+      "nr": 13,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-13.jpg"
+    },
+    {
+      "id": 5819560,
+      "nr": 14,
+      "picture": "https://images.pexels.com/videos/7140928/pictures/preview-14.jpg"
+    }
+  ]
+}
