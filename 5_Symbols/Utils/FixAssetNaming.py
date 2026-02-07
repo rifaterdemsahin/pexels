@@ -1,6 +1,8 @@
 
 import os
 import re
+import argparse
+import sys
 
 def fix_naming(base_dir):
     print(f"Scanning {base_dir}...")
@@ -21,7 +23,7 @@ def fix_naming(base_dir):
         for file in files:
             # Check if file is already prefixed
             if file.startswith(f"{folder_name}_"):
-                print(f"  Skipping correct file: {file}")
+                # print(f"  Skipping correct file: {file}")
                 continue
                 
             # Construct new filename
@@ -37,13 +39,24 @@ def fix_naming(base_dir):
                 print(f"  Error renaming {file}: {e}")
 
 def main():
-    project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+    parser = argparse.ArgumentParser(description="Fix Asset Naming in Stock Folders")
+    parser.add_argument("target_dir", help="Base directory containing StockVideos and StockImages folders (e.g. 3_Simulation/WeekX)")
+    args = parser.parse_args()
     
-    stock_videos = os.path.join(project_root, '3_Simulation', 'Feb1', 'StockVideos')
-    stock_images = os.path.join(project_root, '3_Simulation', 'Feb1', 'StockImages')
+    project_root = os.path.abspath(args.target_dir)
     
-    fix_naming(stock_videos)
-    fix_naming(stock_images)
+    stock_videos = os.path.join(project_root, 'StockVideos')
+    stock_images = os.path.join(project_root, 'StockImages')
+    
+    if os.path.exists(stock_videos):
+        fix_naming(stock_videos)
+    else:
+        print(f"Warning: {stock_videos} not found.")
+
+    if os.path.exists(stock_images):
+        fix_naming(stock_images)
+    else:
+        print(f"Warning: {stock_images} not found.")
 
 if __name__ == "__main__":
     main()
