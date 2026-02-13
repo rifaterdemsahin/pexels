@@ -1,0 +1,8 @@
+{
+  "config_id": "icon_vscode",
+  "config_name": "vscode_logo",
+  "priority": "HIGH",
+  "asset_type": "image",
+  "note": "This is a placeholder file for demonstration purposes",
+  "prompt": "Visual Studio Code logo icon, blue ribbon style, minimalist flat design, clean vector style, isolate"
+}

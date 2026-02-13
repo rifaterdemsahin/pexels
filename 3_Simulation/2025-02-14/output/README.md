@@ -39,9 +39,10 @@ Each asset has an accompanying `*_meta.json` file containing:
 - Pexels API response data (photographer, dimensions, URLs, etc.)
 - Source information for attribution
 
-## Processing Script
+## Processing Scripts
 
-Assets are generated using:
+### Real Asset Generation
+Fetch actual stock videos and photos from Pexels:
 ```bash
 cd /home/runner/work/pexels/pexels/3_Simulation/2025-02-14
 python3 process_assets.py
@@ -50,6 +51,15 @@ python3 process_assets.py
 Requires:
 - PEXELS_API_KEY environment variable or .env file
 - Python 3 with requests, python-dotenv, and PyYAML
+
+### Demo/Placeholder Generation
+Create placeholder files for testing without API key:
+```bash
+cd /home/runner/work/pexels/pexels/3_Simulation/2025-02-14
+python3 create_demo_files.py
+```
+
+This creates text-based placeholder files that demonstrate the output structure.
 
 ## Attribution
 
