@@ -4,7 +4,114 @@
 
 diagrams: []
 
-images: []
+images:
+  - id: "IMG_01"
+    name: "golden_microphone"
+    priority: "HIGH"
+    scene: "Scene 1"
+    seed_key: "SEED_IMG"
+    prompt: "Oversized golden microphone on stage, dramatic spotlight lighting, professional studio, cinematic composition, 4k quality"
+    model: "fal-ai/flux/schnell"
+    search_query: "golden microphone stage spotlight"
+
+  - id: "IMG_02"
+    name: "people_struggling_work"
+    priority: "HIGH"
+    scene: "Scene 2"
+    seed_key: "SEED_IMG"
+    prompt: "Frustrated office workers at desks with complex workflow diagrams, overwhelmed expressions, modern office, blue tones"
+    model: "fal-ai/flux/schnell"
+    search_query: "frustrated office worker computer"
+
+  - id: "IMG_03"
+    name: "stone_statues_hall"
+    priority: "HIGH"
+    scene: "Scene 3"
+    seed_key: "SEED_IMG"
+    prompt: "Grand hall with frozen stone statues, marble floor, dramatic directional lighting, museum atmosphere, representing rigid static systems"
+    model: "fal-ai/flux/schnell"
+    search_query: "stone statues museum hall"
+
+  - id: "IMG_04"
+    name: "liquid_mercury_abstract"
+    priority: "HIGH"
+    scene: "Scene 3"
+    seed_key: "SEED_IMG"
+    prompt: "Liquid mercury flowing and morphing into shapes, reflective silver surface, abstract futuristic, dynamic transformation visual"
+    model: "fal-ai/flux/schnell"
+    search_query: "liquid mercury abstract silver"
+
+  - id: "IMG_05"
+    name: "3d_printer_operation"
+    priority: "MEDIUM"
+    scene: "Scene 5"
+    seed_key: "SEED_IMG"
+    prompt: "3D printer in operation building a detailed model layer by layer, close-up of nozzle, blue LED lighting, futuristic workshop"
+    model: "fal-ai/flux/schnell"
+    search_query: "3d printer close up operation"
+
+  - id: "IMG_06"
+    name: "nursery_nightlight"
+    priority: "MEDIUM"
+    scene: "Scene 6"
+    seed_key: "SEED_IMG"
+    prompt: "Cozy nursery room at night with a glowing nightlight, soft warm tones, peaceful atmosphere, baby room with soft lighting"
+    model: "fal-ai/flux/schnell"
+    search_query: "nursery nightlight warm cozy"
+
+  - id: "IMG_07"
+    name: "smart_speaker_tech"
+    priority: "MEDIUM"
+    scene: "Scene 7"
+    seed_key: "SEED_IMG"
+    prompt: "Smart speaker device on modern desk with ambient lighting, tech ecosystem, sleek minimalist design"
+    model: "fal-ai/flux/schnell"
+    search_query: "smart speaker modern desk tech"
+
+  - id: "IMG_08"
+    name: "clock_gears_mechanism"
+    priority: "MEDIUM"
+    scene: "Scene 8"
+    seed_key: "SEED_IMG"
+    prompt: "Detailed clock mechanism with spinning gears and cogs, macro photography, metallic golden tones, precision engineering"
+    model: "fal-ai/flux/schnell"
+    search_query: "clock mechanism gears close up"
+
+  - id: "IMG_09"
+    name: "digital_feast_tablets"
+    priority: "HIGH"
+    scene: "Scene 9"
+    seed_key: "SEED_IMG"
+    prompt: "Overhead view of a table filled with multiple tablets and devices displaying different AI interfaces, abundance concept, warm lighting"
+    model: "fal-ai/flux/schnell"
+    search_query: "multiple tablets table overhead"
+
+  - id: "IMG_10"
+    name: "lightning_glass_bottle"
+    priority: "HIGH"
+    scene: "Scene 10"
+    seed_key: "SEED_IMG"
+    prompt: "Lightning bolt captured inside a glass bottle, electrical energy visualization, dark background with glowing blue plasma"
+    model: "fal-ai/flux/schnell"
+    search_query: "lightning energy glass bottle"
+
+  - id: "IMG_11"
+    name: "developer_toolbox"
+    priority: "MEDIUM"
+    scene: "Scene 11"
+    seed_key: "SEED_IMG"
+    prompt: "Developer toolbox with glowing tools, vibrant energy emanating from open toolbox, tech tools, vibrating with potential"
+    model: "fal-ai/flux/schnell"
+    search_query: "toolbox glowing tools workshop"
+
+  - id: "IMG_12"
+    name: "futuristic_city_balcony"
+    priority: "HIGH"
+    scene: "Scene 12"
+    seed_key: "SEED_IMG"
+    prompt: "Person standing on balcony overlooking futuristic city at sunset, drones flying, neon lights, cyberpunk skyline, aspirational"
+    model: "fal-ai/flux/schnell"
+    search_query: "futuristic city skyline sunset balcony"
 
 video:
   - id: "V_01"
@@ -40,9 +147,140 @@ video:
     aspect_ratio: "16:9"
     search_query: "cloud infrastructure data center"
 
+  - id: "V_04"
+    name: "stone_statues_static"
+    priority: "HIGH"
+    scene: "Scene 3"
+    seed_key: "SEED_VIDEO"
+    prompt: "Slow dolly shot through hall of stone statues, marble pillars, museum atmosphere, representing rigid static systems, cool blue tones"
+    model: "fal-ai/minimax/video-01"
+    duration_seconds: 5
+    aspect_ratio: "16:9"
+    search_query: "stone statues museum dolly"
+
+  - id: "V_05"
+    name: "liquid_mercury_dynamic"
+    priority: "HIGH"
+    scene: "Scene 3"
+    seed_key: "SEED_VIDEO"
+    prompt: "Close-up of liquid mercury flowing and morphing into shapes, reflective metallic surface, representing dynamic AI systems"
+    model: "fal-ai/minimax/video-01"
+    duration_seconds: 5
+    aspect_ratio: "16:9"
+    search_query: "liquid mercury flowing abstract"
+
+  - id: "V_06"
+    name: "3d_printer_timelapse"
+    priority: "MEDIUM"
+    scene: "Scene 5"
+    seed_key: "SEED_VIDEO"
+    prompt: "Time-lapse of 3D printer building layer by layer, close-up of nozzle, futuristic workshop environment"
+    model: "fal-ai/minimax/video-01"
+    duration_seconds: 5
+    aspect_ratio: "16:9"
+    search_query: "3d printer timelapse close up"
+
+  - id: "V_07"
+    name: "nursery_warm_scene"
+    priority: "MEDIUM"
+    scene: "Scene 6"
+    seed_key: "SEED_VIDEO"
+    prompt: "Soft warm lit nursery room, nightlight glow, peaceful baby room atmosphere, gentle camera push-in"
+    model: "fal-ai/minimax/video-01"
+    duration_seconds: 5
+    aspect_ratio: "16:9"
+    search_query: "nursery nightlight warm room"
+
+  - id: "V_08"
+    name: "smart_home_tech"
+    priority: "MEDIUM"
+    scene: "Scene 7"
+    seed_key: "SEED_VIDEO"
+    prompt: "Smart speaker activating with voice command, ambient tech lighting, modern smart home setup, sleek devices"
+    model: "fal-ai/minimax/video-01"
+    duration_seconds: 5
+    aspect_ratio: "16:9"
+    search_query: "smart speaker voice assistant home"
+
+  - id: "V_09"
+    name: "clock_spinning_fast"
+    priority: "HIGH"
+    scene: "Scene 8"
+    seed_key: "SEED_VIDEO"
+    prompt: "Clock hands spinning rapidly at 1000x speed, close-up of clock mechanism, time acceleration visual"
+    model: "fal-ai/minimax/video-01"
+    duration_seconds: 5
+    aspect_ratio: "16:9"
+    search_query: "clock hands spinning fast timelapse"
+
+  - id: "V_10"
+    name: "tablets_digital_feast"
+    priority: "HIGH"
+    scene: "Scene 9"
+    seed_key: "SEED_VIDEO"
+    prompt: "Overhead crane shot of table covered with tablets and devices, digital feast concept, warm kitchen lighting"
+    model: "fal-ai/minimax/video-01"
+    duration_seconds: 5
+    aspect_ratio: "16:9"
+    search_query: "multiple tablets devices table"
+
+  - id: "V_11"
+    name: "lightning_energy_bottle"
+    priority: "HIGH"
+    scene: "Scene 10"
+    seed_key: "SEED_VIDEO"
+    prompt: "Lightning bolt caught in a glass bottle, electrical energy visualization, slow rotation, dramatic dark background"
+    model: "fal-ai/minimax/video-01"
+    duration_seconds: 5
+    aspect_ratio: "16:9"
+    search_query: "lightning electricity energy effect"
+
+  - id: "V_12"
+    name: "toolbox_vibrating"
+    priority: "MEDIUM"
+    scene: "Scene 11"
+    seed_key: "SEED_VIDEO"
+    prompt: "Vibrating toolbox opening with energy, developer tools inside, glowing with potential, workshop setting"
+    model: "fal-ai/minimax/video-01"
+    duration_seconds: 5
+    aspect_ratio: "16:9"
+    search_query: "toolbox opening workshop tools"
+
+  - id: "V_13"
+    name: "futuristic_cityscape"
+    priority: "HIGH"
+    scene: "Scene 12"
+    seed_key: "SEED_VIDEO"
+    prompt: "Wide drone shot of futuristic city at sunset, drones flying, neon skyline, pull-back reveal, aspirational epic conclusion"
+    model: "fal-ai/minimax/video-01"
+    duration_seconds: 5
+    aspect_ratio: "16:9"
+    search_query: "futuristic city drone sunset skyline"
+
+  - id: "V_14"
+    name: "people_struggling_montage"
+    priority: "MEDIUM"
+    scene: "Scene 2"
+    seed_key: "SEED_VIDEO"
+    prompt: "Montage of people struggling with complex technology, frustrated office workers, overwhelmed expressions"
+    model: "fal-ai/minimax/video-01"
+    duration_seconds: 5
+    aspect_ratio: "16:9"
+    search_query: "frustrated people working computer office"
+
+  - id: "V_15"
+    name: "code_scrolling_ide"
+    priority: "MEDIUM"
+    scene: "Scene 4"
+    seed_key: "SEED_VIDEO"
+    prompt: "Clean code scrolling in modern IDE, programming visualization, VS Code interface, dark theme, developer workflow"
+    model: "fal-ai/minimax/video-01"
+    duration_seconds: 5
+    aspect_ratio: "16:9"
+    search_query: "code programming scrolling screen"
+
   # Note: With $2 budget limit and ~$0.25 per video, we can generate approximately 8 videos
-  # These 3 HIGH priority videos are within budget
-  # Add more as needed, but the script will warn if cost exceeds $2
+  # 15 videos listed covers all 12 scenes; prioritize HIGH ones for budget
 
 graphics: []
 

@@ -2,9 +2,108 @@
   "images": [
     {
       "id": "test_image_001",
+      "name": "futuristic_cityscape_test",
+      "priority": "LOW",
       "prompt": "A futuristic cityscape at sunset",
       "model": "fal-ai/flux/schnell",
-      "seed": 42
+      "seed": 42,
+      "search_query": "futuristic cityscape sunset"
+    },
+    {
+      "id": "IMG_01",
+      "name": "golden_microphone",
+      "priority": "HIGH",
+      "prompt": "Oversized golden microphone on stage, dramatic spotlight lighting, professional studio, cinematic composition, 4k quality",
+      "model": "fal-ai/flux/schnell",
+      "search_query": "golden microphone stage spotlight"
+    },
+    {
+      "id": "IMG_02",
+      "name": "people_struggling_work",
+      "priority": "HIGH",
+      "prompt": "Frustrated office workers at desks with complex workflow diagrams, overwhelmed expressions, modern office, blue tones",
+      "model": "fal-ai/flux/schnell",
+      "search_query": "frustrated office worker computer"
+    },
+    {
+      "id": "IMG_03",
+      "name": "stone_statues_hall",
+      "priority": "HIGH",
+      "prompt": "Grand hall with frozen stone statues, marble floor, dramatic directional lighting, museum atmosphere, representing rigid static systems",
+      "model": "fal-ai/flux/schnell",
+      "search_query": "stone statues museum hall"
+    },
+    {
+      "id": "IMG_04",
+      "name": "liquid_mercury_abstract",
+      "priority": "HIGH",
+      "prompt": "Liquid mercury flowing and morphing into shapes, reflective silver surface, abstract futuristic, dynamic transformation visual",
+      "model": "fal-ai/flux/schnell",
+      "search_query": "liquid mercury abstract silver"
+    },
+    {
+      "id": "IMG_05",
+      "name": "3d_printer_operation",
+      "priority": "MEDIUM",
+      "prompt": "3D printer in operation building a detailed model layer by layer, close-up of nozzle, blue LED lighting, futuristic workshop",
+      "model": "fal-ai/flux/schnell",
+      "search_query": "3d printer close up operation"
+    },
+    {
+      "id": "IMG_06",
+      "name": "nursery_nightlight",
+      "priority": "MEDIUM",
+      "prompt": "Cozy nursery room at night with a glowing nightlight, soft warm tones, peaceful atmosphere, baby room with soft lighting",
+      "model": "fal-ai/flux/schnell",
+      "search_query": "nursery nightlight warm cozy"
+    },
+    {
+      "id": "IMG_07",
+      "name": "smart_speaker_tech",
+      "priority": "MEDIUM",
+      "prompt": "Smart speaker device on modern desk with ambient lighting, tech ecosystem, sleek minimalist design",
+      "model": "fal-ai/flux/schnell",
+      "search_query": "smart speaker modern desk tech"
+    },
+    {
+      "id": "IMG_08",
+      "name": "clock_gears_mechanism",
+      "priority": "MEDIUM",
+      "prompt": "Detailed clock mechanism with spinning gears and cogs, macro photography, metallic golden tones, precision engineering",
+      "model": "fal-ai/flux/schnell",
+      "search_query": "clock mechanism gears close up"
+    },
+    {
+      "id": "IMG_09",
+      "name": "digital_feast_tablets",
+      "priority": "HIGH",
+      "prompt": "Overhead view of a table filled with multiple tablets and devices displaying different AI interfaces, abundance concept, warm lighting",
+      "model": "fal-ai/flux/schnell",
+      "search_query": "multiple tablets table overhead"
+    },
+    {
+      "id": "IMG_10",
+      "name": "lightning_glass_bottle",
+      "priority": "HIGH",
+      "prompt": "Lightning bolt captured inside a glass bottle, electrical energy visualization, dark background with glowing blue plasma",
+      "model": "fal-ai/flux/schnell",
+      "search_query": "lightning energy glass bottle"
+    },
+    {
+      "id": "IMG_11",
+      "name": "developer_toolbox",
+      "priority": "MEDIUM",
+      "prompt": "Developer toolbox with glowing tools, vibrant energy emanating from open toolbox, tech tools, vibrating with potential",
+      "model": "fal-ai/flux/schnell",
+      "search_query": "toolbox glowing tools workshop"
+    },
+    {
+      "id": "IMG_12",
+      "name": "futuristic_city_balcony",
+      "priority": "HIGH",
+      "prompt": "Person standing on balcony overlooking futuristic city at sunset, drones flying, neon lights, cyberpunk skyline, aspirational",
+      "model": "fal-ai/flux/schnell",
+      "search_query": "futuristic city skyline sunset balcony"
     }
   ]
 }
