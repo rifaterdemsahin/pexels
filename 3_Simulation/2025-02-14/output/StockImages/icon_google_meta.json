@@ -1,0 +1,8 @@
+{
+  "config_id": "icon_google",
+  "config_name": "google_gemini_logo",
+  "priority": "HIGH",
+  "asset_type": "image",
+  "note": "This is a placeholder file for demonstration purposes",
+  "prompt": "Google Gemini logo, star sparkle shape, blue and purple gradient, minimalist flat design, clean vector style, isolated on white background"
+}

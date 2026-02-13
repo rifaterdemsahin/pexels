@@ -1,0 +1,8 @@
+{
+  "config_id": "icon_shield",
+  "config_name": "family_shield",
+  "priority": "MEDIUM",
+  "asset_type": "image",
+  "note": "This is a placeholder file for demonstration purposes",
+  "prompt": "Security shield icon, family friendly badge, soft rounded edges, warm colors, clean vector style, isolated on white background"
+}

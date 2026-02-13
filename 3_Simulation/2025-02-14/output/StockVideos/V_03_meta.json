@@ -1,0 +1,8 @@
+{
+  "config_id": "V_03",
+  "config_name": "cloud_infrastructure",
+  "priority": "MEDIUM",
+  "asset_type": "video",
+  "note": "This is a placeholder file for demonstration purposes",
+  "search_query": "cloud infrastructure data center"
+}
