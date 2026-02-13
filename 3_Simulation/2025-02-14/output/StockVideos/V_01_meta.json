@@ -1,8 +1,164 @@
 {
   "config_id": "V_01",
   "config_name": "agentic_workflows_overview",
+  "search_query": "tech office holographic displays",
   "priority": "HIGH",
-  "asset_type": "video",
-  "note": "This is a placeholder file for demonstration purposes",
-  "search_query": "tech office holographic displays"
+  "scene": "Scene 1",
+  "pexels_video_id": 28794989,
+  "pexels_url": "https://www.pexels.com/video/futuristic-robot-interacting-with-holographic-interface-28794989/",
+  "pexels_video": {
+    "id": 28794989,
+    "width": 3840,
+    "height": 2160,
+    "duration": 61,
+    "full_res": null,
+    "tags": [],
+    "url": "https://www.pexels.com/video/futuristic-robot-interacting-with-holographic-interface-28794989/",
+    "image": "https://images.pexels.com/videos/28794989/dancing-robot-science-fiction-28794989.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+    "avg_color": null,
+    "user": {
+      "id": 297996969,
+      "name": "Adis Resic",
+      "url": "https://www.pexels.com/@adis-resic-297996969"
+    },
+    "video_files": [
+      {
+        "id": 12479108,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 3840,
+        "height": 2160,
+        "fps": 24.0,
+        "link": "https://videos.pexels.com/video-files/28794989/12479108_3840_2160_24fps.mp4",
+        "size": 208760469
+      },
+      {
+        "id": 12479107,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 2560,
+        "height": 1440,
+        "fps": 24.0,
+        "link": "https://videos.pexels.com/video-files/28794989/12479107_2560_1440_24fps.mp4",
+        "size": 115889392
+      },
+      {
+        "id": 12479106,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 1920,
+        "height": 1080,
+        "fps": 24.0,
+        "link": "https://videos.pexels.com/video-files/28794989/12479106_1920_1080_24fps.mp4",
+        "size": 74592579
+      },
+      {
+        "id": 12479105,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 1280,
+        "height": 720,
+        "fps": 24.0,
+        "link": "https://videos.pexels.com/video-files/28794989/12479105_1280_720_24fps.mp4",
+        "size": 39204510
+      },
+      {
+        "id": 12479104,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 960,
+        "height": 540,
+        "fps": 24.0,
+        "link": "https://videos.pexels.com/video-files/28794989/12479104_960_540_24fps.mp4",
+        "size": 25230399
+      },
+      {
+        "id": 12479103,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 640,
+        "height": 360,
+        "fps": 24.0,
+        "link": "https://videos.pexels.com/video-files/28794989/12479103_640_360_24fps.mp4",
+        "size": 13559467
+      }
+    ],
+    "video_pictures": [
+      {
+        "id": 23306715,
+        "nr": 0,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-0.jpg"
+      },
+      {
+        "id": 23306716,
+        "nr": 1,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-1.jpg"
+      },
+      {
+        "id": 23306717,
+        "nr": 2,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-2.jpg"
+      },
+      {
+        "id": 23306718,
+        "nr": 3,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-3.jpg"
+      },
+      {
+        "id": 23306719,
+        "nr": 4,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-4.jpg"
+      },
+      {
+        "id": 23306720,
+        "nr": 5,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-5.jpg"
+      },
+      {
+        "id": 23306721,
+        "nr": 6,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-6.jpg"
+      },
+      {
+        "id": 23306722,
+        "nr": 7,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-7.jpg"
+      },
+      {
+        "id": 23306723,
+        "nr": 8,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-8.jpg"
+      },
+      {
+        "id": 23306724,
+        "nr": 9,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-9.jpg"
+      },
+      {
+        "id": 23306725,
+        "nr": 10,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-10.jpg"
+      },
+      {
+        "id": 23306726,
+        "nr": 11,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-11.jpg"
+      },
+      {
+        "id": 23306727,
+        "nr": 12,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-12.jpg"
+      },
+      {
+        "id": 23306728,
+        "nr": 13,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-13.jpg"
+      },
+      {
+        "id": 23306729,
+        "nr": 14,
+        "picture": "https://images.pexels.com/videos/28794989/pictures/preview-14.jpg"
+      }
+    ]
+  }
 }

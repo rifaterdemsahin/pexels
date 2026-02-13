@@ -1,8 +1,33 @@
 {
   "config_id": "icon_deepseek",
   "config_name": "deepseek_logo",
+  "prompt": "DeepSeek AI logo, blue whale or abstract blue shape, minimalist flat design, clean vector style, isolated on white background",
+  "search_query": "DeepSeek AI logo, blue whale",
   "priority": "HIGH",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "DeepSeek AI logo, blue whale or abstract blue shape, minimalist flat design, clean vector style, isolated on white background"
+  "scene": "Scene 9",
+  "pexels_photo_id": 8907831,
+  "pexels_url": "https://www.pexels.com/photo/birds-eye-view-of-whale-on-sea-8907831/",
+  "photographer": "Los Muertos Crew",
+  "pexels_photo": {
+    "id": 8907831,
+    "width": 4300,
+    "height": 4300,
+    "url": "https://www.pexels.com/photo/birds-eye-view-of-whale-on-sea-8907831/",
+    "photographer": "Los Muertos Crew",
+    "photographer_url": "https://www.pexels.com/@cristian-rojas",
+    "photographer_id": 11924337,
+    "avg_color": "#103434",
+    "src": {
+      "original": "https://images.pexels.com/photos/8907831/pexels-photo-8907831.jpeg",
+      "large2x": "https://images.pexels.com/photos/8907831/pexels-photo-8907831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/8907831/pexels-photo-8907831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/8907831/pexels-photo-8907831.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/8907831/pexels-photo-8907831.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/8907831/pexels-photo-8907831.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/8907831/pexels-photo-8907831.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/8907831/pexels-photo-8907831.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "Captivating aerial shot of whales swimming in the deep blue ocean waters, showcasing marine life."
+  }
 }

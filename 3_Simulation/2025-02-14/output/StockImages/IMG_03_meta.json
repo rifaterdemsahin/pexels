@@ -1,8 +1,33 @@
 {
   "config_id": "IMG_03",
   "config_name": "stone_statues_hall",
+  "prompt": "Grand hall with frozen stone statues, marble floor, dramatic directional lighting, museum atmosphere, representing rigid static systems",
+  "search_query": "stone statues museum hall",
   "priority": "HIGH",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "Grand hall with frozen stone statues, marble floor, dramatic directional lighting, museum atmosphere, representing rigid static systems"
+  "scene": "Scene 3",
+  "pexels_photo_id": 13754840,
+  "pexels_url": "https://www.pexels.com/photo/inside-an-egyptian-museum-13754840/",
+  "photographer": "Abd Elhamid  Zaki",
+  "pexels_photo": {
+    "id": 13754840,
+    "width": 9248,
+    "height": 6936,
+    "url": "https://www.pexels.com/photo/inside-an-egyptian-museum-13754840/",
+    "photographer": "Abd Elhamid  Zaki",
+    "photographer_url": "https://www.pexels.com/@abd-elhamid-zaki-202979635",
+    "photographer_id": 202979635,
+    "avg_color": "#69604F",
+    "src": {
+      "original": "https://images.pexels.com/photos/13754840/pexels-photo-13754840.jpeg",
+      "large2x": "https://images.pexels.com/photos/13754840/pexels-photo-13754840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/13754840/pexels-photo-13754840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/13754840/pexels-photo-13754840.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/13754840/pexels-photo-13754840.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/13754840/pexels-photo-13754840.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/13754840/pexels-photo-13754840.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/13754840/pexels-photo-13754840.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "Wide view of the Egyptian Museum's main hall showcasing ancient sculptures and architecture."
+  }
 }

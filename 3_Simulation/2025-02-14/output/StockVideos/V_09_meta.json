@@ -1,8 +1,154 @@
 {
   "config_id": "V_09",
   "config_name": "clock_spinning_fast",
+  "search_query": "clock hands spinning fast timelapse",
   "priority": "HIGH",
-  "asset_type": "video",
-  "note": "This is a placeholder file for demonstration purposes",
-  "search_query": "clock hands spinning fast timelapse"
+  "scene": "Scene 8",
+  "pexels_video_id": 6910595,
+  "pexels_url": "https://www.pexels.com/video/time-lapse-of-clock-6910595/",
+  "pexels_video": {
+    "id": 6910595,
+    "width": 1920,
+    "height": 1080,
+    "duration": 25,
+    "full_res": null,
+    "tags": [],
+    "url": "https://www.pexels.com/video/time-lapse-of-clock-6910595/",
+    "image": "https://images.pexels.com/videos/6910595/analogue-clock-black-and-white-clock-minimalism-6910595.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+    "avg_color": null,
+    "user": {
+      "id": 628948,
+      "name": "Ad\u00e1n Garc\u00eda",
+      "url": "https://www.pexels.com/@adan-garcia-628948"
+    },
+    "video_files": [
+      {
+        "id": 10226308,
+        "quality": "hd",
+        "file_type": "video/mp4",
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/6910595/6910595-hd_1920_1080_30fps.mp4",
+        "size": 14933209
+      },
+      {
+        "id": 10226407,
+        "quality": "hd",
+        "file_type": "video/mp4",
+        "width": 1280,
+        "height": 720,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/6910595/6910595-hd_1280_720_30fps.mp4",
+        "size": 5586803
+      },
+      {
+        "id": 10226465,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 960,
+        "height": 540,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/6910595/6910595-sd_960_540_30fps.mp4",
+        "size": 3524678
+      },
+      {
+        "id": 10226507,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 640,
+        "height": 360,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/6910595/6910595-sd_640_360_30fps.mp4",
+        "size": 1426882
+      },
+      {
+        "id": 10226244,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 426,
+        "height": 240,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/6910595/6910595-sd_426_240_30fps.mp4",
+        "size": 563971
+      }
+    ],
+    "video_pictures": [
+      {
+        "id": 5344400,
+        "nr": 0,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-0.jpg"
+      },
+      {
+        "id": 5344401,
+        "nr": 1,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-1.jpg"
+      },
+      {
+        "id": 5344402,
+        "nr": 2,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-2.jpg"
+      },
+      {
+        "id": 5344403,
+        "nr": 3,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-3.jpg"
+      },
+      {
+        "id": 5344404,
+        "nr": 4,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-4.jpg"
+      },
+      {
+        "id": 5344405,
+        "nr": 5,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-5.jpg"
+      },
+      {
+        "id": 5344406,
+        "nr": 6,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-6.jpg"
+      },
+      {
+        "id": 5344407,
+        "nr": 7,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-7.jpg"
+      },
+      {
+        "id": 5344408,
+        "nr": 8,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-8.jpg"
+      },
+      {
+        "id": 5344409,
+        "nr": 9,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-9.jpg"
+      },
+      {
+        "id": 5344410,
+        "nr": 10,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-10.jpg"
+      },
+      {
+        "id": 5344411,
+        "nr": 11,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-11.jpg"
+      },
+      {
+        "id": 5344412,
+        "nr": 12,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-12.jpg"
+      },
+      {
+        "id": 5344413,
+        "nr": 13,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-13.jpg"
+      },
+      {
+        "id": 5344414,
+        "nr": 14,
+        "picture": "https://images.pexels.com/videos/6910595/pictures/preview-14.jpg"
+      }
+    ]
+  }
 }

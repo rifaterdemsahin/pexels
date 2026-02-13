@@ -1,8 +1,134 @@
 {
   "config_id": "V_07",
   "config_name": "nursery_warm_scene",
+  "search_query": "nursery nightlight warm room",
   "priority": "MEDIUM",
-  "asset_type": "video",
-  "note": "This is a placeholder file for demonstration purposes",
-  "search_query": "nursery nightlight warm room"
+  "scene": "Scene 6",
+  "pexels_video_id": 854376,
+  "pexels_url": "https://www.pexels.com/video/video-of-baby-toys-and-crib-854376/",
+  "pexels_video": {
+    "id": 854376,
+    "width": 1280,
+    "height": 720,
+    "duration": 13,
+    "full_res": null,
+    "tags": [],
+    "url": "https://www.pexels.com/video/video-of-baby-toys-and-crib-854376/",
+    "image": "https://images.pexels.com/videos/854376/free-video-854376.jpg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+    "avg_color": null,
+    "user": {
+      "id": 2659,
+      "name": "Pixabay",
+      "url": "https://www.pexels.com/@pixabay"
+    },
+    "video_files": [
+      {
+        "id": 7436,
+        "quality": "hd",
+        "file_type": "video/mp4",
+        "width": 1280,
+        "height": 720,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/854376/854376-hd_1280_720_30fps.mp4",
+        "size": 3126703
+      },
+      {
+        "id": 7438,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 960,
+        "height": 540,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/854376/854376-sd_960_540_30fps.mp4",
+        "size": 1971925
+      },
+      {
+        "id": 7437,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 640,
+        "height": 360,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/854376/854376-sd_640_360_30fps.mp4",
+        "size": 836048
+      }
+    ],
+    "video_pictures": [
+      {
+        "id": 8080,
+        "nr": 0,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-0.jpg"
+      },
+      {
+        "id": 8081,
+        "nr": 1,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-1.jpg"
+      },
+      {
+        "id": 8082,
+        "nr": 2,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-2.jpg"
+      },
+      {
+        "id": 8083,
+        "nr": 3,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-3.jpg"
+      },
+      {
+        "id": 8084,
+        "nr": 4,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-4.jpg"
+      },
+      {
+        "id": 8085,
+        "nr": 5,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-5.jpg"
+      },
+      {
+        "id": 8086,
+        "nr": 6,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-6.jpg"
+      },
+      {
+        "id": 8087,
+        "nr": 7,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-7.jpg"
+      },
+      {
+        "id": 8088,
+        "nr": 8,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-8.jpg"
+      },
+      {
+        "id": 8089,
+        "nr": 9,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-9.jpg"
+      },
+      {
+        "id": 8090,
+        "nr": 10,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-10.jpg"
+      },
+      {
+        "id": 8091,
+        "nr": 11,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-11.jpg"
+      },
+      {
+        "id": 8092,
+        "nr": 12,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-12.jpg"
+      },
+      {
+        "id": 8093,
+        "nr": 13,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-13.jpg"
+      },
+      {
+        "id": 8094,
+        "nr": 14,
+        "picture": "https://images.pexels.com/videos/854376/pictures/preview-14.jpg"
+      }
+    ]
+  }
 }

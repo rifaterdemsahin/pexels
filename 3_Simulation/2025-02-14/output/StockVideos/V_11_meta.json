@@ -1,8 +1,164 @@
 {
   "config_id": "V_11",
   "config_name": "lightning_energy_bottle",
+  "search_query": "lightning electricity energy effect",
   "priority": "HIGH",
-  "asset_type": "video",
-  "note": "This is a placeholder file for demonstration purposes",
-  "search_query": "lightning electricity energy effect"
+  "scene": "Scene 10",
+  "pexels_video_id": 7846338,
+  "pexels_url": "https://www.pexels.com/video/woman-with-lightning-effect-on-the-background-7846338/",
+  "pexels_video": {
+    "id": 7846338,
+    "width": 4096,
+    "height": 2160,
+    "duration": 18,
+    "full_res": null,
+    "tags": [],
+    "url": "https://www.pexels.com/video/woman-with-lightning-effect-on-the-background-7846338/",
+    "image": "https://images.pexels.com/videos/7846338/pexels-photo-7846338.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+    "avg_color": null,
+    "user": {
+      "id": 1437723,
+      "name": "cottonbro studio",
+      "url": "https://www.pexels.com/@cottonbro"
+    },
+    "video_files": [
+      {
+        "id": 10595346,
+        "quality": "uhd",
+        "file_type": "video/mp4",
+        "width": 4096,
+        "height": 2160,
+        "fps": 25.0,
+        "link": "https://videos.pexels.com/video-files/7846338/7846338-uhd_4096_2160_25fps.mp4",
+        "size": 27080228
+      },
+      {
+        "id": 10595639,
+        "quality": "uhd",
+        "file_type": "video/mp4",
+        "width": 2732,
+        "height": 1440,
+        "fps": 25.0,
+        "link": "https://videos.pexels.com/video-files/7846338/7846338-uhd_2732_1440_25fps.mp4",
+        "size": 7254667
+      },
+      {
+        "id": 10595262,
+        "quality": "hd",
+        "file_type": "video/mp4",
+        "width": 2048,
+        "height": 1080,
+        "fps": 25.0,
+        "link": "https://videos.pexels.com/video-files/7846338/7846338-hd_2048_1080_25fps.mp4",
+        "size": 4651899
+      },
+      {
+        "id": 10595195,
+        "quality": "hd",
+        "file_type": "video/mp4",
+        "width": 1366,
+        "height": 720,
+        "fps": 25.0,
+        "link": "https://videos.pexels.com/video-files/7846338/7846338-hd_1366_720_25fps.mp4",
+        "size": 1960916
+      },
+      {
+        "id": 10595456,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 960,
+        "height": 506,
+        "fps": 25.0,
+        "link": "https://videos.pexels.com/video-files/7846338/7846338-sd_960_506_25fps.mp4",
+        "size": 1361439
+      },
+      {
+        "id": 10595411,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 640,
+        "height": 338,
+        "fps": 25.0,
+        "link": "https://videos.pexels.com/video-files/7846338/7846338-sd_640_338_25fps.mp4",
+        "size": 716500
+      }
+    ],
+    "video_pictures": [
+      {
+        "id": 7152961,
+        "nr": 0,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-0.jpg"
+      },
+      {
+        "id": 7152966,
+        "nr": 1,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-1.jpg"
+      },
+      {
+        "id": 7152973,
+        "nr": 2,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-2.jpg"
+      },
+      {
+        "id": 7152983,
+        "nr": 3,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-3.jpg"
+      },
+      {
+        "id": 7152996,
+        "nr": 4,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-4.jpg"
+      },
+      {
+        "id": 7153008,
+        "nr": 5,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-5.jpg"
+      },
+      {
+        "id": 7153027,
+        "nr": 6,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-6.jpg"
+      },
+      {
+        "id": 7153038,
+        "nr": 7,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-7.jpg"
+      },
+      {
+        "id": 7153048,
+        "nr": 8,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-8.jpg"
+      },
+      {
+        "id": 7153079,
+        "nr": 9,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-9.jpg"
+      },
+      {
+        "id": 7153139,
+        "nr": 10,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-10.jpg"
+      },
+      {
+        "id": 7153199,
+        "nr": 11,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-11.jpg"
+      },
+      {
+        "id": 7153251,
+        "nr": 12,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-12.jpg"
+      },
+      {
+        "id": 7153325,
+        "nr": 13,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-13.jpg"
+      },
+      {
+        "id": 7153378,
+        "nr": 14,
+        "picture": "https://images.pexels.com/videos/7846338/pictures/preview-14.jpg"
+      }
+    ]
+  }
 }

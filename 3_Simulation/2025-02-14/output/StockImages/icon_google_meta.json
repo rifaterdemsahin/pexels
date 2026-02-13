@@ -1,8 +1,33 @@
 {
   "config_id": "icon_google",
   "config_name": "google_gemini_logo",
+  "prompt": "Google Gemini logo, star sparkle shape, blue and purple gradient, minimalist flat design, clean vector style, isolated on white background",
+  "search_query": "Google Gemini logo, star sparkle",
   "priority": "HIGH",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "Google Gemini logo, star sparkle shape, blue and purple gradient, minimalist flat design, clean vector style, isolated on white background"
+  "scene": "Scene 9",
+  "pexels_photo_id": 28793387,
+  "pexels_url": "https://www.pexels.com/photo/stunning-jellyfish-nebula-in-the-night-sky-28793387/",
+  "photographer": "Scott Lord",
+  "pexels_photo": {
+    "id": 28793387,
+    "width": 3008,
+    "height": 3008,
+    "url": "https://www.pexels.com/photo/stunning-jellyfish-nebula-in-the-night-sky-28793387/",
+    "photographer": "Scott Lord",
+    "photographer_url": "https://www.pexels.com/@scott-lord-564881271",
+    "photographer_id": 564881271,
+    "avg_color": "#271D1B",
+    "src": {
+      "original": "https://images.pexels.com/photos/28793387/pexels-photo-28793387.jpeg",
+      "large2x": "https://images.pexels.com/photos/28793387/pexels-photo-28793387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/28793387/pexels-photo-28793387.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/28793387/pexels-photo-28793387.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/28793387/pexels-photo-28793387.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/28793387/pexels-photo-28793387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/28793387/pexels-photo-28793387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/28793387/pexels-photo-28793387.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "Capture of the Jellyfish Nebula against a starry night sky in Milton, KY."
+  }
 }

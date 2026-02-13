@@ -1,8 +1,164 @@
 {
   "config_id": "V_05",
   "config_name": "liquid_mercury_dynamic",
+  "search_query": "liquid mercury flowing abstract",
   "priority": "HIGH",
-  "asset_type": "video",
-  "note": "This is a placeholder file for demonstration purposes",
-  "search_query": "liquid mercury flowing abstract"
+  "scene": "Scene 3",
+  "pexels_video_id": 29717612,
+  "pexels_url": "https://www.pexels.com/video/abstract-fluid-texture-background-animation-29717612/",
+  "pexels_video": {
+    "id": 29717612,
+    "width": 3840,
+    "height": 2160,
+    "duration": 20,
+    "full_res": null,
+    "tags": [],
+    "url": "https://www.pexels.com/video/abstract-fluid-texture-background-animation-29717612/",
+    "image": "https://images.pexels.com/videos/29717612/abstract-art-backdrop-background-29717612.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+    "avg_color": null,
+    "user": {
+      "id": 754623426,
+      "name": "Chandresh Uike",
+      "url": "https://www.pexels.com/@chandresh-uike-754623426"
+    },
+    "video_files": [
+      {
+        "id": 12777887,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 3840,
+        "height": 2160,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/29717612/12777887_3840_2160_30fps.mp4",
+        "size": 55801171
+      },
+      {
+        "id": 12777886,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 2560,
+        "height": 1440,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/29717612/12777886_2560_1440_30fps.mp4",
+        "size": 30534855
+      },
+      {
+        "id": 12777885,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/29717612/12777885_1920_1080_30fps.mp4",
+        "size": 20631142
+      },
+      {
+        "id": 12777884,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 1280,
+        "height": 720,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/29717612/12777884_1280_720_30fps.mp4",
+        "size": 12053196
+      },
+      {
+        "id": 12777883,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 960,
+        "height": 540,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/29717612/12777883_960_540_30fps.mp4",
+        "size": 8387954
+      },
+      {
+        "id": 12777882,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 640,
+        "height": 360,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/29717612/12777882_640_360_30fps.mp4",
+        "size": 5139649
+      }
+    ],
+    "video_pictures": [
+      {
+        "id": 24111491,
+        "nr": 0,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-0.jpg"
+      },
+      {
+        "id": 24111492,
+        "nr": 1,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-1.jpg"
+      },
+      {
+        "id": 24111493,
+        "nr": 2,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-2.jpg"
+      },
+      {
+        "id": 24111494,
+        "nr": 3,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-3.jpg"
+      },
+      {
+        "id": 24111495,
+        "nr": 4,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-4.jpg"
+      },
+      {
+        "id": 24111496,
+        "nr": 5,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-5.jpg"
+      },
+      {
+        "id": 24111497,
+        "nr": 6,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-6.jpg"
+      },
+      {
+        "id": 24111498,
+        "nr": 7,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-7.jpg"
+      },
+      {
+        "id": 24111499,
+        "nr": 8,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-8.jpg"
+      },
+      {
+        "id": 24111500,
+        "nr": 9,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-9.jpg"
+      },
+      {
+        "id": 24111501,
+        "nr": 10,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-10.jpg"
+      },
+      {
+        "id": 24111502,
+        "nr": 11,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-11.jpg"
+      },
+      {
+        "id": 24111503,
+        "nr": 12,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-12.jpg"
+      },
+      {
+        "id": 24111504,
+        "nr": 13,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-13.jpg"
+      },
+      {
+        "id": 24111505,
+        "nr": 14,
+        "picture": "https://images.pexels.com/videos/29717612/pictures/preview-14.jpg"
+      }
+    ]
+  }
 }

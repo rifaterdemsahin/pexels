@@ -1,8 +1,33 @@
 {
   "config_id": "icon_shield",
   "config_name": "family_shield",
+  "prompt": "Security shield icon, family friendly badge, soft rounded edges, warm colors, clean vector style, isolated on white background",
+  "search_query": "Security shield icon, family friendly",
   "priority": "MEDIUM",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "Security shield icon, family friendly badge, soft rounded edges, warm colors, clean vector style, isolated on white background"
+  "scene": "Scene 6",
+  "pexels_photo_id": 13730172,
+  "pexels_url": "https://www.pexels.com/photo/a-woman-embracing-her-child-13730172/",
+  "photographer": "Fatima Yusuf",
+  "pexels_photo": {
+    "id": 13730172,
+    "width": 3456,
+    "height": 3456,
+    "url": "https://www.pexels.com/photo/a-woman-embracing-her-child-13730172/",
+    "photographer": "Fatima Yusuf",
+    "photographer_url": "https://www.pexels.com/@fatima-yusuf-323522203",
+    "photographer_id": 323522203,
+    "avg_color": "#B0727D",
+    "src": {
+      "original": "https://images.pexels.com/photos/13730172/pexels-photo-13730172.jpeg",
+      "large2x": "https://images.pexels.com/photos/13730172/pexels-photo-13730172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/13730172/pexels-photo-13730172.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/13730172/pexels-photo-13730172.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/13730172/pexels-photo-13730172.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/13730172/pexels-photo-13730172.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/13730172/pexels-photo-13730172.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/13730172/pexels-photo-13730172.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "A close-up of a loving mother and child embracing, showcasing warmth and affection."
+  }
 }

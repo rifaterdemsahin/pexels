@@ -1,8 +1,33 @@
 {
   "config_id": "icon_github",
   "config_name": "github_logo",
+  "prompt": "GitHub logo icon, minimalist flat design, octocat silhouette, black and white, clean vector style, isolated on white background",
+  "search_query": "GitHub logo icon, minimalist flat",
   "priority": "HIGH",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "GitHub logo icon, minimalist flat design, octocat silhouette, black and white, clean vector style, isolated on white background"
+  "scene": "General",
+  "pexels_photo_id": 6342786,
+  "pexels_url": "https://www.pexels.com/photo/trendy-sweatshirt-with-logotype-placed-on-wooden-surface-6342786/",
+  "photographer": "Erik Mclean",
+  "pexels_photo": {
+    "id": 6342786,
+    "width": 3648,
+    "height": 3648,
+    "url": "https://www.pexels.com/photo/trendy-sweatshirt-with-logotype-placed-on-wooden-surface-6342786/",
+    "photographer": "Erik Mclean",
+    "photographer_url": "https://www.pexels.com/@introspectivedsgn",
+    "photographer_id": 2417028,
+    "avg_color": "#6B7675",
+    "src": {
+      "original": "https://images.pexels.com/photos/6342786/pexels-photo-6342786.jpeg",
+      "large2x": "https://images.pexels.com/photos/6342786/pexels-photo-6342786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/6342786/pexels-photo-6342786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/6342786/pexels-photo-6342786.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/6342786/pexels-photo-6342786.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/6342786/pexels-photo-6342786.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/6342786/pexels-photo-6342786.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/6342786/pexels-photo-6342786.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "From above of stylish comfy long sleeved pullover with brand logo placed on wooden floor"
+  }
 }

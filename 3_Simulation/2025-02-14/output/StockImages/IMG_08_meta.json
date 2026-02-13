@@ -1,8 +1,33 @@
 {
   "config_id": "IMG_08",
   "config_name": "clock_gears_mechanism",
+  "prompt": "Detailed clock mechanism with spinning gears and cogs, macro photography, metallic golden tones, precision engineering",
+  "search_query": "clock mechanism gears close up",
   "priority": "MEDIUM",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "Detailed clock mechanism with spinning gears and cogs, macro photography, metallic golden tones, precision engineering"
+  "scene": "Scene 8",
+  "pexels_photo_id": 10583683,
+  "pexels_url": "https://www.pexels.com/photo/clock-on-clock-tower-10583683/",
+  "photographer": "SimplyArt4794",
+  "pexels_photo": {
+    "id": 10583683,
+    "width": 6480,
+    "height": 4320,
+    "url": "https://www.pexels.com/photo/clock-on-clock-tower-10583683/",
+    "photographer": "SimplyArt4794",
+    "photographer_url": "https://www.pexels.com/@simplyart4794-53798833",
+    "photographer_id": 53798833,
+    "avg_color": "#7F746E",
+    "src": {
+      "original": "https://images.pexels.com/photos/10583683/pexels-photo-10583683.jpeg",
+      "large2x": "https://images.pexels.com/photos/10583683/pexels-photo-10583683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/10583683/pexels-photo-10583683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/10583683/pexels-photo-10583683.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/10583683/pexels-photo-10583683.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/10583683/pexels-photo-10583683.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/10583683/pexels-photo-10583683.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/10583683/pexels-photo-10583683.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "Close-up of a steampunk clock tower displaying intricate gear mechanisms on a brick wall."
+  }
 }

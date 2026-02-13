@@ -1,8 +1,164 @@
 {
   "config_id": "V_12",
   "config_name": "toolbox_vibrating",
+  "search_query": "toolbox opening workshop tools",
   "priority": "MEDIUM",
-  "asset_type": "video",
-  "note": "This is a placeholder file for demonstration purposes",
-  "search_query": "toolbox opening workshop tools"
+  "scene": "Scene 11",
+  "pexels_video_id": 8551362,
+  "pexels_url": "https://www.pexels.com/video/an-open-toolbox-on-the-ground-8551362/",
+  "pexels_video": {
+    "id": 8551362,
+    "width": 3840,
+    "height": 2160,
+    "duration": 9,
+    "full_res": null,
+    "tags": [],
+    "url": "https://www.pexels.com/video/an-open-toolbox-on-the-ground-8551362/",
+    "image": "https://images.pexels.com/videos/8551362/adult-antique-big-kid-bike-8551362.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+    "avg_color": null,
+    "user": {
+      "id": 10715715,
+      "name": "Kindel Media",
+      "url": "https://www.pexels.com/@kindelmedia"
+    },
+    "video_files": [
+      {
+        "id": 10891767,
+        "quality": "uhd",
+        "file_type": "video/mp4",
+        "width": 3840,
+        "height": 2160,
+        "fps": 30.0,
+        "link": "https://videos.pexels.com/video-files/8551362/8551362-uhd_3840_2160_30fps.mp4",
+        "size": 25859106
+      },
+      {
+        "id": 10891794,
+        "quality": "uhd",
+        "file_type": "video/mp4",
+        "width": 2560,
+        "height": 1440,
+        "fps": 30.0,
+        "link": "https://videos.pexels.com/video-files/8551362/8551362-uhd_2560_1440_30fps.mp4",
+        "size": 14938789
+      },
+      {
+        "id": 10891826,
+        "quality": "hd",
+        "file_type": "video/mp4",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "link": "https://videos.pexels.com/video-files/8551362/8551362-hd_1920_1080_30fps.mp4",
+        "size": 6119947
+      },
+      {
+        "id": 10891919,
+        "quality": "hd",
+        "file_type": "video/mp4",
+        "width": 1280,
+        "height": 720,
+        "fps": 30.0,
+        "link": "https://videos.pexels.com/video-files/8551362/8551362-hd_1280_720_30fps.mp4",
+        "size": 3225659
+      },
+      {
+        "id": 10891967,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 960,
+        "height": 540,
+        "fps": 30.0,
+        "link": "https://videos.pexels.com/video-files/8551362/8551362-sd_960_540_30fps.mp4",
+        "size": 1997295
+      },
+      {
+        "id": 10891867,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 640,
+        "height": 360,
+        "fps": 30.0,
+        "link": "https://videos.pexels.com/video-files/8551362/8551362-sd_640_360_30fps.mp4",
+        "size": 717340
+      }
+    ],
+    "video_pictures": [
+      {
+        "id": 8488087,
+        "nr": 0,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-0.jpeg"
+      },
+      {
+        "id": 8488090,
+        "nr": 1,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-1.jpeg"
+      },
+      {
+        "id": 8488095,
+        "nr": 2,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-2.jpeg"
+      },
+      {
+        "id": 8488102,
+        "nr": 3,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-3.jpeg"
+      },
+      {
+        "id": 8488108,
+        "nr": 4,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-4.jpeg"
+      },
+      {
+        "id": 8488115,
+        "nr": 5,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-5.jpeg"
+      },
+      {
+        "id": 8488121,
+        "nr": 6,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-6.jpeg"
+      },
+      {
+        "id": 8488126,
+        "nr": 7,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-7.jpeg"
+      },
+      {
+        "id": 8488131,
+        "nr": 8,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-8.jpeg"
+      },
+      {
+        "id": 8488137,
+        "nr": 9,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-9.jpeg"
+      },
+      {
+        "id": 8488143,
+        "nr": 10,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-10.jpeg"
+      },
+      {
+        "id": 8488152,
+        "nr": 11,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-11.jpeg"
+      },
+      {
+        "id": 8488164,
+        "nr": 12,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-12.jpeg"
+      },
+      {
+        "id": 8488171,
+        "nr": 13,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-13.jpeg"
+      },
+      {
+        "id": 8488179,
+        "nr": 14,
+        "picture": "https://images.pexels.com/videos/8551362/pictures/preview-14.jpeg"
+      }
+    ]
+  }
 }

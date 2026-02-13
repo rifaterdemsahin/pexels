@@ -1,8 +1,33 @@
 {
   "config_id": "icon_cursor",
   "config_name": "cursor_ai_logo",
+  "prompt": "Cursor AI code editor logo, minimalist modern tech icon, clean vector style, isolated on white background",
+  "search_query": "Cursor AI code editor logo,",
   "priority": "HIGH",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "Cursor AI code editor logo, minimalist modern tech icon, clean vector style, isolated on white background"
+  "scene": "General",
+  "pexels_photo_id": 17483810,
+  "pexels_url": "https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-represents-how-ai-accountability-needs-to-be-central-and-the-surrounding-moral-responsibilities-it-was-created-by-cha-17483810/",
+  "photographer": "Google DeepMind",
+  "pexels_photo": {
+    "id": 17483810,
+    "width": 4000,
+    "height": 4000,
+    "url": "https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-represents-how-ai-accountability-needs-to-be-central-and-the-surrounding-moral-responsibilities-it-was-created-by-cha-17483810/",
+    "photographer": "Google DeepMind",
+    "photographer_url": "https://www.pexels.com/@googledeepmind",
+    "photographer_id": 472736342,
+    "avg_color": "#84ACCA",
+    "src": {
+      "original": "https://images.pexels.com/photos/17483810/pexels-photo-17483810.png",
+      "large2x": "https://images.pexels.com/photos/17483810/pexels-photo-17483810.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/17483810/pexels-photo-17483810.png?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/17483810/pexels-photo-17483810.png?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/17483810/pexels-photo-17483810.png?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/17483810/pexels-photo-17483810.png?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/17483810/pexels-photo-17483810.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/17483810/pexels-photo-17483810.png?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "Vibrant blue and yellow digital abstract with geometric patterns and 3D effects."
+  }
 }

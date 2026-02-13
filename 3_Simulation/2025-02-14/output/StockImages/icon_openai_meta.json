@@ -1,8 +1,33 @@
 {
   "config_id": "icon_openai",
   "config_name": "openai_logo",
+  "prompt": "OpenAI logo, hexagon flower shape, minimalist black line art, clean vector style, isolated on white background",
+  "search_query": "OpenAI logo, hexagon flower shape,",
   "priority": "HIGH",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "OpenAI logo, hexagon flower shape, minimalist black line art, clean vector style, isolated on white background"
+  "scene": "Scene 9",
+  "pexels_photo_id": 11285436,
+  "pexels_url": "https://www.pexels.com/photo/gray-checkered-tiles-11285436/",
+  "photographer": "Share Textures",
+  "pexels_photo": {
+    "id": 11285436,
+    "width": 2048,
+    "height": 2048,
+    "url": "https://www.pexels.com/photo/gray-checkered-tiles-11285436/",
+    "photographer": "Share Textures",
+    "photographer_url": "https://www.pexels.com/@share-textures-3167406",
+    "photographer_id": 3167406,
+    "avg_color": "#434345",
+    "src": {
+      "original": "https://images.pexels.com/photos/11285436/pexels-photo-11285436.png",
+      "large2x": "https://images.pexels.com/photos/11285436/pexels-photo-11285436.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/11285436/pexels-photo-11285436.png?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/11285436/pexels-photo-11285436.png?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/11285436/pexels-photo-11285436.png?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/11285436/pexels-photo-11285436.png?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/11285436/pexels-photo-11285436.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/11285436/pexels-photo-11285436.png?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "Abstract dark hexagon pattern for modern and sleek designs"
+  }
 }

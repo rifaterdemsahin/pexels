@@ -1,8 +1,33 @@
 {
   "config_id": "icon_vscode",
   "config_name": "vscode_logo",
+  "prompt": "Visual Studio Code logo icon, blue ribbon style, minimalist flat design, clean vector style, isolated on white background",
+  "search_query": "Visual Studio Code logo icon,",
   "priority": "HIGH",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "Visual Studio Code logo icon, blue ribbon style, minimalist flat design, clean vector style, isolated on white background"
+  "scene": "General",
+  "pexels_photo_id": 13423143,
+  "pexels_url": "https://www.pexels.com/photo/close-up-photo-of-a-logo-13423143/",
+  "photographer": "Lara Farber",
+  "pexels_photo": {
+    "id": 13423143,
+    "width": 2711,
+    "height": 2711,
+    "url": "https://www.pexels.com/photo/close-up-photo-of-a-logo-13423143/",
+    "photographer": "Lara Farber",
+    "photographer_url": "https://www.pexels.com/@larissafarber",
+    "photographer_id": 41034823,
+    "avg_color": "#B49593",
+    "src": {
+      "original": "https://images.pexels.com/photos/13423143/pexels-photo-13423143.jpeg",
+      "large2x": "https://images.pexels.com/photos/13423143/pexels-photo-13423143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/13423143/pexels-photo-13423143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/13423143/pexels-photo-13423143.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/13423143/pexels-photo-13423143.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/13423143/pexels-photo-13423143.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/13423143/pexels-photo-13423143.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/13423143/pexels-photo-13423143.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "Iconic London Underground logo displayed on a white surface, representing public transport."
+  }
 }

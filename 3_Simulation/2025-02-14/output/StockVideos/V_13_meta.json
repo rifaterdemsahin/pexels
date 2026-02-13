@@ -1,8 +1,174 @@
 {
   "config_id": "V_13",
   "config_name": "futuristic_cityscape",
+  "search_query": "futuristic city drone sunset skyline",
   "priority": "HIGH",
-  "asset_type": "video",
-  "note": "This is a placeholder file for demonstration purposes",
-  "search_query": "futuristic city drone sunset skyline"
+  "scene": "Scene 12",
+  "pexels_video_id": 12757594,
+  "pexels_url": "https://www.pexels.com/video/drone-shot-of-a-skyscraper-at-sunset-12757594/",
+  "pexels_video": {
+    "id": 12757594,
+    "width": 3840,
+    "height": 2160,
+    "duration": 17,
+    "full_res": null,
+    "tags": [],
+    "url": "https://www.pexels.com/video/drone-shot-of-a-skyscraper-at-sunset-12757594/",
+    "image": "https://images.pexels.com/videos/12757594/aerial-building-canada-construction-12757594.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+    "avg_color": null,
+    "user": {
+      "id": 3640662,
+      "name": "Braeson Holland",
+      "url": "https://www.pexels.com/@braeson-holland-3640662"
+    },
+    "video_files": [
+      {
+        "id": 5600614,
+        "quality": "uhd",
+        "file_type": "video/mp4",
+        "width": 3840,
+        "height": 2160,
+        "fps": 59.94,
+        "link": "https://videos.pexels.com/video-files/12757594/12757594-uhd_3840_2160_60fps.mp4",
+        "size": 54860541
+      },
+      {
+        "id": 5600612,
+        "quality": "uhd",
+        "file_type": "video/mp4",
+        "width": 2560,
+        "height": 1440,
+        "fps": 59.94,
+        "link": "https://videos.pexels.com/video-files/12757594/12757594-uhd_2560_1440_60fps.mp4",
+        "size": 29825021
+      },
+      {
+        "id": 5600611,
+        "quality": "hd",
+        "file_type": "video/mp4",
+        "width": 1920,
+        "height": 1080,
+        "fps": 59.94,
+        "link": "https://videos.pexels.com/video-files/12757594/12757594-hd_1920_1080_60fps.mp4",
+        "size": 12505270
+      },
+      {
+        "id": 5600615,
+        "quality": "hd",
+        "file_type": "video/mp4",
+        "width": 1280,
+        "height": 720,
+        "fps": 59.94,
+        "link": "https://videos.pexels.com/video-files/12757594/12757594-hd_1280_720_60fps.mp4",
+        "size": 5793964
+      },
+      {
+        "id": 5600613,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 960,
+        "height": 540,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/12757594/12757594-sd_960_540_30fps.mp4",
+        "size": 2909777
+      },
+      {
+        "id": 5600617,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 640,
+        "height": 360,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/12757594/12757594-sd_640_360_30fps.mp4",
+        "size": 1278258
+      },
+      {
+        "id": 5600616,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 426,
+        "height": 240,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/12757594/12757594-sd_426_240_30fps.mp4",
+        "size": 523641
+      }
+    ],
+    "video_pictures": [
+      {
+        "id": 13911983,
+        "nr": 0,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-0.jpeg"
+      },
+      {
+        "id": 13911984,
+        "nr": 1,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-1.jpeg"
+      },
+      {
+        "id": 13911985,
+        "nr": 2,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-2.jpeg"
+      },
+      {
+        "id": 13911986,
+        "nr": 3,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-3.jpeg"
+      },
+      {
+        "id": 13911987,
+        "nr": 4,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-4.jpeg"
+      },
+      {
+        "id": 13911988,
+        "nr": 5,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-5.jpeg"
+      },
+      {
+        "id": 13911989,
+        "nr": 6,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-6.jpeg"
+      },
+      {
+        "id": 13911990,
+        "nr": 7,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-7.jpeg"
+      },
+      {
+        "id": 13911991,
+        "nr": 8,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-8.jpeg"
+      },
+      {
+        "id": 13911992,
+        "nr": 9,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-9.jpeg"
+      },
+      {
+        "id": 13911993,
+        "nr": 10,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-10.jpeg"
+      },
+      {
+        "id": 13911994,
+        "nr": 11,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-11.jpeg"
+      },
+      {
+        "id": 13911995,
+        "nr": 12,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-12.jpeg"
+      },
+      {
+        "id": 13911996,
+        "nr": 13,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-13.jpeg"
+      },
+      {
+        "id": 13911997,
+        "nr": 14,
+        "picture": "https://images.pexels.com/videos/12757594/pictures/preview-14.jpeg"
+      }
+    ]
+  }
 }

@@ -1,8 +1,33 @@
 {
   "config_id": "IMG_04",
   "config_name": "liquid_mercury_abstract",
+  "prompt": "Liquid mercury flowing and morphing into shapes, reflective silver surface, abstract futuristic, dynamic transformation visual",
+  "search_query": "liquid mercury abstract silver",
   "priority": "HIGH",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "Liquid mercury flowing and morphing into shapes, reflective silver surface, abstract futuristic, dynamic transformation visual"
+  "scene": "Scene 3",
+  "pexels_photo_id": 5995206,
+  "pexels_url": "https://www.pexels.com/photo/glass-thermometer-in-close-up-photography-5995206/",
+  "photographer": "Maksim Goncharenok",
+  "pexels_photo": {
+    "id": 5995206,
+    "width": 3069,
+    "height": 2046,
+    "url": "https://www.pexels.com/photo/glass-thermometer-in-close-up-photography-5995206/",
+    "photographer": "Maksim Goncharenok",
+    "photographer_url": "https://www.pexels.com/@maksgelatin",
+    "photographer_id": 2713790,
+    "avg_color": "#7D6978",
+    "src": {
+      "original": "https://images.pexels.com/photos/5995206/pexels-photo-5995206.jpeg",
+      "large2x": "https://images.pexels.com/photos/5995206/pexels-photo-5995206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/5995206/pexels-photo-5995206.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/5995206/pexels-photo-5995206.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/5995206/pexels-photo-5995206.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/5995206/pexels-photo-5995206.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/5995206/pexels-photo-5995206.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/5995206/pexels-photo-5995206.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "Glass thermometer on a vibrant red and blue background, symbolizing health and temperature measurement."
+  }
 }

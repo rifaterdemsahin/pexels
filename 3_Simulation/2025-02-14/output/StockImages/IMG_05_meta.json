@@ -1,8 +1,33 @@
 {
   "config_id": "IMG_05",
   "config_name": "3d_printer_operation",
+  "prompt": "3D printer in operation building a detailed model layer by layer, close-up of nozzle, blue LED lighting, futuristic workshop",
+  "search_query": "3d printer close up operation",
   "priority": "MEDIUM",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "3D printer in operation building a detailed model layer by layer, close-up of nozzle, blue LED lighting, futuristic workshop"
+  "scene": "Scene 5",
+  "pexels_photo_id": 31121842,
+  "pexels_url": "https://www.pexels.com/photo/innovative-3d-printer-in-action-in-neon-workshop-31121842/",
+  "photographer": "Jakub Zerdzicki",
+  "pexels_photo": {
+    "id": 31121842,
+    "width": 3000,
+    "height": 2001,
+    "url": "https://www.pexels.com/photo/innovative-3d-printer-in-action-in-neon-workshop-31121842/",
+    "photographer": "Jakub Zerdzicki",
+    "photographer_url": "https://www.pexels.com/@jakubzerdzicki",
+    "photographer_id": 494676239,
+    "avg_color": "#3B506B",
+    "src": {
+      "original": "https://images.pexels.com/photos/31121842/pexels-photo-31121842.jpeg",
+      "large2x": "https://images.pexels.com/photos/31121842/pexels-photo-31121842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/31121842/pexels-photo-31121842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/31121842/pexels-photo-31121842.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/31121842/pexels-photo-31121842.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/31121842/pexels-photo-31121842.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/31121842/pexels-photo-31121842.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/31121842/pexels-photo-31121842.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "A close-up of a 3D printer in a neon-lit workshop, capturing technology and creativity."
+  }
 }

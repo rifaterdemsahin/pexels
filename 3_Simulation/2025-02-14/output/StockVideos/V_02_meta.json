@@ -1,8 +1,164 @@
 {
   "config_id": "V_02",
   "config_name": "automation_in_action",
+  "search_query": "network automation visualization",
   "priority": "HIGH",
-  "asset_type": "video",
-  "note": "This is a placeholder file for demonstration purposes",
-  "search_query": "network automation visualization"
+  "scene": "Scene 2",
+  "pexels_video_id": 34128991,
+  "pexels_url": "https://www.pexels.com/video/futuristic-data-stream-in-motion-34128991/",
+  "pexels_video": {
+    "id": 34128991,
+    "width": 3840,
+    "height": 2160,
+    "duration": 20,
+    "full_res": null,
+    "tags": [],
+    "url": "https://www.pexels.com/video/futuristic-data-stream-in-motion-34128991/",
+    "image": "https://images.pexels.com/videos/34128991/ai-algorithm-analysis-application-34128991.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+    "avg_color": null,
+    "user": {
+      "id": 754623426,
+      "name": "Chandresh Uike",
+      "url": "https://www.pexels.com/@chandresh-uike-754623426"
+    },
+    "video_files": [
+      {
+        "id": 14471967,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 3840,
+        "height": 2160,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/34128991/14471967_3840_2160_30fps.mp4",
+        "size": 14898549
+      },
+      {
+        "id": 14471966,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 2560,
+        "height": 1440,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/34128991/14471966_2560_1440_30fps.mp4",
+        "size": 7135609
+      },
+      {
+        "id": 14471965,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/34128991/14471965_1920_1080_30fps.mp4",
+        "size": 4518513
+      },
+      {
+        "id": 14471964,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 1280,
+        "height": 720,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/34128991/14471964_1280_720_30fps.mp4",
+        "size": 2498777
+      },
+      {
+        "id": 14471963,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 960,
+        "height": 540,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/34128991/14471963_960_540_30fps.mp4",
+        "size": 1714949
+      },
+      {
+        "id": 14471962,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 640,
+        "height": 360,
+        "fps": 29.97,
+        "link": "https://videos.pexels.com/video-files/34128991/14471962_640_360_30fps.mp4",
+        "size": 1103213
+      }
+    ],
+    "video_pictures": [
+      {
+        "id": 28485348,
+        "nr": 0,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-0.jpg"
+      },
+      {
+        "id": 28485349,
+        "nr": 1,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-1.jpg"
+      },
+      {
+        "id": 28485350,
+        "nr": 2,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-2.jpg"
+      },
+      {
+        "id": 28485351,
+        "nr": 3,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-3.jpg"
+      },
+      {
+        "id": 28485352,
+        "nr": 4,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-4.jpg"
+      },
+      {
+        "id": 28485353,
+        "nr": 5,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-5.jpg"
+      },
+      {
+        "id": 28485354,
+        "nr": 6,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-6.jpg"
+      },
+      {
+        "id": 28485355,
+        "nr": 7,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-7.jpg"
+      },
+      {
+        "id": 28485356,
+        "nr": 8,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-8.jpg"
+      },
+      {
+        "id": 28485357,
+        "nr": 9,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-9.jpg"
+      },
+      {
+        "id": 28485358,
+        "nr": 10,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-10.jpg"
+      },
+      {
+        "id": 28485359,
+        "nr": 11,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-11.jpg"
+      },
+      {
+        "id": 28485360,
+        "nr": 12,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-12.jpg"
+      },
+      {
+        "id": 28485361,
+        "nr": 13,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-13.jpg"
+      },
+      {
+        "id": 28485362,
+        "nr": 14,
+        "picture": "https://images.pexels.com/videos/34128991/pictures/preview-14.jpg"
+      }
+    ]
+  }
 }

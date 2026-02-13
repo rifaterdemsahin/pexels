@@ -1,8 +1,33 @@
 {
   "config_id": "icon_anthropic",
   "config_name": "anthropic_logo",
+  "prompt": "Anthropic AI logo, minimalist geometrical shape, clean vector style, isolated on white background",
+  "search_query": "Anthropic AI logo, minimalist geometrical",
   "priority": "HIGH",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "Anthropic AI logo, minimalist geometrical shape, clean vector style, isolated on white background"
+  "scene": "Scene 9",
+  "pexels_photo_id": 18069157,
+  "pexels_url": "https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-depicts-the-process-used-by-text-to-image-diffusion-models-it-was-created-by-linus-zoll-as-part-of-the-visualising-ai-18069157/",
+  "photographer": "Google DeepMind",
+  "pexels_photo": {
+    "id": 18069157,
+    "width": 4096,
+    "height": 4096,
+    "url": "https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-depicts-the-process-used-by-text-to-image-diffusion-models-it-was-created-by-linus-zoll-as-part-of-the-visualising-ai-18069157/",
+    "photographer": "Google DeepMind",
+    "photographer_url": "https://www.pexels.com/@googledeepmind",
+    "photographer_id": 472736342,
+    "avg_color": "#D4D5D8",
+    "src": {
+      "original": "https://images.pexels.com/photos/18069157/pexels-photo-18069157.png",
+      "large2x": "https://images.pexels.com/photos/18069157/pexels-photo-18069157.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/18069157/pexels-photo-18069157.png?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/18069157/pexels-photo-18069157.png?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/18069157/pexels-photo-18069157.png?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/18069157/pexels-photo-18069157.png?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/18069157/pexels-photo-18069157.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/18069157/pexels-photo-18069157.png?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "Geometric abstract representation of AI technology with digital elements."
+  }
 }

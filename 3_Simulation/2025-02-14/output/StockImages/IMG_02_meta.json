@@ -1,8 +1,33 @@
 {
   "config_id": "IMG_02",
   "config_name": "people_struggling_work",
+  "prompt": "Frustrated office workers at desks with complex workflow diagrams, overwhelmed expressions, modern office, blue tones",
+  "search_query": "frustrated office worker computer",
   "priority": "HIGH",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "Frustrated office workers at desks with complex workflow diagrams, overwhelmed expressions, modern office, blue tones"
+  "scene": "Scene 2",
+  "pexels_photo_id": 6837638,
+  "pexels_url": "https://www.pexels.com/photo/woman-in-beige-coat-using-silver-macbook-6837638/",
+  "photographer": "Nataliya Vaitkevich",
+  "pexels_photo": {
+    "id": 6837638,
+    "width": 5926,
+    "height": 3951,
+    "url": "https://www.pexels.com/photo/woman-in-beige-coat-using-silver-macbook-6837638/",
+    "photographer": "Nataliya Vaitkevich",
+    "photographer_url": "https://www.pexels.com/@n-voitkevich",
+    "photographer_id": 2906295,
+    "avg_color": "#CDC9C7",
+    "src": {
+      "original": "https://images.pexels.com/photos/6837638/pexels-photo-6837638.jpeg",
+      "large2x": "https://images.pexels.com/photos/6837638/pexels-photo-6837638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/6837638/pexels-photo-6837638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/6837638/pexels-photo-6837638.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/6837638/pexels-photo-6837638.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/6837638/pexels-photo-6837638.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/6837638/pexels-photo-6837638.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/6837638/pexels-photo-6837638.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "Adult man stressed at work, experiencing burnout while working on laptop at desk."
+  }
 }

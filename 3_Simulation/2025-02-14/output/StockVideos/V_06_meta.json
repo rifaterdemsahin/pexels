@@ -1,8 +1,149 @@
 {
   "config_id": "V_06",
   "config_name": "3d_printer_timelapse",
+  "search_query": "3d printer timelapse close up",
   "priority": "MEDIUM",
-  "asset_type": "video",
-  "note": "This is a placeholder file for demonstration purposes",
-  "search_query": "3d printer timelapse close up"
+  "scene": "Scene 5",
+  "pexels_video_id": 27537380,
+  "pexels_url": "https://www.pexels.com/video/3d-printer-27537380/",
+  "pexels_video": {
+    "id": 27537380,
+    "width": 3840,
+    "height": 2160,
+    "duration": 13,
+    "full_res": null,
+    "tags": [],
+    "url": "https://www.pexels.com/video/3d-printer-27537380/",
+    "image": "https://images.pexels.com/videos/27537380/3d-3d-printer-3d-printing-arm-27537380.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+    "avg_color": null,
+    "user": {
+      "id": 494676239,
+      "name": "Jakub Zerdzicki",
+      "url": "https://www.pexels.com/@jakubzerdzicki"
+    },
+    "video_files": [
+      {
+        "id": 12162367,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 3840,
+        "height": 2160,
+        "fps": 25.0,
+        "link": "https://videos.pexels.com/video-files/27537380/12162367_3840_2160_25fps.mp4",
+        "size": 26598985
+      },
+      {
+        "id": 12162366,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 2560,
+        "height": 1440,
+        "fps": 25.0,
+        "link": "https://videos.pexels.com/video-files/27537380/12162366_2560_1440_25fps.mp4",
+        "size": 13334650
+      },
+      {
+        "id": 12162365,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 1920,
+        "height": 1080,
+        "fps": 25.0,
+        "link": "https://videos.pexels.com/video-files/27537380/12162365_1920_1080_25fps.mp4",
+        "size": 8111435
+      },
+      {
+        "id": 12162364,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "link": "https://videos.pexels.com/video-files/27537380/12162364_1280_720_25fps.mp4",
+        "size": 3967601
+      },
+      {
+        "id": 12162363,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 960,
+        "height": 540,
+        "fps": 25.0,
+        "link": "https://videos.pexels.com/video-files/27537380/12162363_960_540_25fps.mp4",
+        "size": 2461567
+      },
+      {
+        "id": 12162362,
+        "quality": null,
+        "file_type": "video/mp4",
+        "width": 640,
+        "height": 360,
+        "fps": 25.0,
+        "link": "https://videos.pexels.com/video-files/27537380/12162362_640_360_25fps.mp4",
+        "size": 1298573
+      }
+    ],
+    "video_pictures": [
+      {
+        "id": 22507626,
+        "nr": 0,
+        "picture": "https://images.pexels.com/videos/27537380/pictures/preview-0.jpg"
+      },
+      {
+        "id": 22507627,
+        "nr": 1,
+        "picture": "https://images.pexels.com/videos/27537380/pictures/preview-1.jpg"
+      },
+      {
+        "id": 22507628,
+        "nr": 2,
+        "picture": "https://images.pexels.com/videos/27537380/pictures/preview-2.jpg"
+      },
+      {
+        "id": 22507629,
+        "nr": 3,
+        "picture": "https://images.pexels.com/videos/27537380/pictures/preview-3.jpg"
+      },
+      {
+        "id": 22507630,
+        "nr": 4,
+        "picture": "https://images.pexels.com/videos/27537380/pictures/preview-4.jpg"
+      },
+      {
+        "id": 22507631,
+        "nr": 5,
+        "picture": "https://images.pexels.com/videos/27537380/pictures/preview-5.jpg"
+      },
+      {
+        "id": 22507632,
+        "nr": 6,
+        "picture": "https://images.pexels.com/videos/27537380/pictures/preview-6.jpg"
+      },
+      {
+        "id": 22507633,
+        "nr": 7,
+        "picture": "https://images.pexels.com/videos/27537380/pictures/preview-7.jpg"
+      },
+      {
+        "id": 22507634,
+        "nr": 8,
+        "picture": "https://images.pexels.com/videos/27537380/pictures/preview-8.jpg"
+      },
+      {
+        "id": 22507635,
+        "nr": 9,
+        "picture": "https://images.pexels.com/videos/27537380/pictures/preview-9.jpg"
+      },
+      {
+        "id": 22507636,
+        "nr": 10,
+        "picture": "https://images.pexels.com/videos/27537380/pictures/preview-10.jpg"
+      },
+      {
+        "id": 22507637,
+        "nr": 11,
+        "picture": "https://images.pexels.com/videos/27537380/pictures/preview-11.jpg"
+      }
+    ]
+  }
 }

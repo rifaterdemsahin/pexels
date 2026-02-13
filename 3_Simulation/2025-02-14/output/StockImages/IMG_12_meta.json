@@ -1,8 +1,33 @@
 {
   "config_id": "IMG_12",
   "config_name": "futuristic_city_balcony",
+  "prompt": "Person standing on balcony overlooking futuristic city at sunset, drones flying, neon lights, cyberpunk skyline, aspirational",
+  "search_query": "futuristic city skyline sunset balcony",
   "priority": "HIGH",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "Person standing on balcony overlooking futuristic city at sunset, drones flying, neon lights, cyberpunk skyline, aspirational"
+  "scene": "Scene 12",
+  "pexels_photo_id": 35720257,
+  "pexels_url": "https://www.pexels.com/photo/stunning-cityscape-silhouette-at-sunrise-in-china-35720257/",
+  "photographer": "Echo Zhang",
+  "pexels_photo": {
+    "id": 35720257,
+    "width": 6240,
+    "height": 4160,
+    "url": "https://www.pexels.com/photo/stunning-cityscape-silhouette-at-sunrise-in-china-35720257/",
+    "photographer": "Echo Zhang",
+    "photographer_url": "https://www.pexels.com/@echo-zhang-1517320219",
+    "photographer_id": 1517320219,
+    "avg_color": "#93734A",
+    "src": {
+      "original": "https://images.pexels.com/photos/35720257/pexels-photo-35720257.jpeg",
+      "large2x": "https://images.pexels.com/photos/35720257/pexels-photo-35720257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/35720257/pexels-photo-35720257.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/35720257/pexels-photo-35720257.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/35720257/pexels-photo-35720257.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/35720257/pexels-photo-35720257.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/35720257/pexels-photo-35720257.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/35720257/pexels-photo-35720257.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "A breathtaking silhouette of a city skyline at sunrise, capturing the glowing horizon in China."
+  }
 }

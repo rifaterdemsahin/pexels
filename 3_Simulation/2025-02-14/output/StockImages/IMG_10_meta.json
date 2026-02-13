@@ -1,8 +1,33 @@
 {
   "config_id": "IMG_10",
   "config_name": "lightning_glass_bottle",
+  "prompt": "Lightning bolt captured inside a glass bottle, electrical energy visualization, dark background with glowing blue plasma",
+  "search_query": "lightning energy glass bottle",
   "priority": "HIGH",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "Lightning bolt captured inside a glass bottle, electrical energy visualization, dark background with glowing blue plasma"
+  "scene": "Scene 10",
+  "pexels_photo_id": 9242489,
+  "pexels_url": "https://www.pexels.com/photo/lightning-strikes-during-night-9242489/",
+  "photographer": "Chris F",
+  "pexels_photo": {
+    "id": 9242489,
+    "width": 4300,
+    "height": 2982,
+    "url": "https://www.pexels.com/photo/lightning-strikes-during-night-9242489/",
+    "photographer": "Chris F",
+    "photographer_url": "https://www.pexels.com/@chris-f-38966",
+    "photographer_id": 38966,
+    "avg_color": "#16151A",
+    "src": {
+      "original": "https://images.pexels.com/photos/9242489/pexels-photo-9242489.jpeg",
+      "large2x": "https://images.pexels.com/photos/9242489/pexels-photo-9242489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/9242489/pexels-photo-9242489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/9242489/pexels-photo-9242489.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/9242489/pexels-photo-9242489.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/9242489/pexels-photo-9242489.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/9242489/pexels-photo-9242489.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/9242489/pexels-photo-9242489.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "Dramatic lightning branches across the dark night sky over a silhouetted forest."
+  }
 }

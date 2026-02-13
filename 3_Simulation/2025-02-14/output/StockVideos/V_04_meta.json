@@ -1,8 +1,174 @@
 {
   "config_id": "V_04",
   "config_name": "stone_statues_static",
+  "search_query": "stone statues museum dolly",
   "priority": "HIGH",
-  "asset_type": "video",
-  "note": "This is a placeholder file for demonstration purposes",
-  "search_query": "stone statues museum dolly"
+  "scene": "Scene 3",
+  "pexels_video_id": 5823857,
+  "pexels_url": "https://www.pexels.com/video/indise-view-of-a-museum-5823857/",
+  "pexels_video": {
+    "id": 5823857,
+    "width": 3840,
+    "height": 2160,
+    "duration": 10,
+    "full_res": null,
+    "tags": [],
+    "url": "https://www.pexels.com/video/indise-view-of-a-museum-5823857/",
+    "image": "https://images.pexels.com/videos/5823857/pexels-photo-5823857.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+    "avg_color": null,
+    "user": {
+      "id": 3660112,
+      "name": "Charlotte May",
+      "url": "https://www.pexels.com/@charlotte-may"
+    },
+    "video_files": [
+      {
+        "id": 9812866,
+        "quality": "uhd",
+        "file_type": "video/mp4",
+        "width": 3840,
+        "height": 2160,
+        "fps": 23.98,
+        "link": "https://videos.pexels.com/video-files/5823857/5823857-uhd_3840_2160_24fps.mp4",
+        "size": 20564099
+      },
+      {
+        "id": 9812549,
+        "quality": "uhd",
+        "file_type": "video/mp4",
+        "width": 2560,
+        "height": 1440,
+        "fps": 23.98,
+        "link": "https://videos.pexels.com/video-files/5823857/5823857-uhd_2560_1440_24fps.mp4",
+        "size": 9232966
+      },
+      {
+        "id": 9812505,
+        "quality": "hd",
+        "file_type": "video/mp4",
+        "width": 1920,
+        "height": 1080,
+        "fps": 23.98,
+        "link": "https://videos.pexels.com/video-files/5823857/5823857-hd_1920_1080_24fps.mp4",
+        "size": 5535774
+      },
+      {
+        "id": 9812649,
+        "quality": "hd",
+        "file_type": "video/mp4",
+        "width": 1280,
+        "height": 720,
+        "fps": 23.98,
+        "link": "https://videos.pexels.com/video-files/5823857/5823857-hd_1280_720_24fps.mp4",
+        "size": 2862290
+      },
+      {
+        "id": 9812622,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 960,
+        "height": 540,
+        "fps": 23.98,
+        "link": "https://videos.pexels.com/video-files/5823857/5823857-sd_960_540_24fps.mp4",
+        "size": 1893431
+      },
+      {
+        "id": 9812817,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 640,
+        "height": 360,
+        "fps": 23.98,
+        "link": "https://videos.pexels.com/video-files/5823857/5823857-sd_640_360_24fps.mp4",
+        "size": 787856
+      },
+      {
+        "id": 9812740,
+        "quality": "sd",
+        "file_type": "video/mp4",
+        "width": 426,
+        "height": 240,
+        "fps": 23.98,
+        "link": "https://videos.pexels.com/video-files/5823857/5823857-sd_426_240_24fps.mp4",
+        "size": 449809
+      }
+    ],
+    "video_pictures": [
+      {
+        "id": 3423333,
+        "nr": 0,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-0.jpg"
+      },
+      {
+        "id": 3423356,
+        "nr": 1,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-1.jpg"
+      },
+      {
+        "id": 3423394,
+        "nr": 2,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-2.jpg"
+      },
+      {
+        "id": 3423437,
+        "nr": 3,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-3.jpg"
+      },
+      {
+        "id": 3423486,
+        "nr": 4,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-4.jpg"
+      },
+      {
+        "id": 3423528,
+        "nr": 5,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-5.jpg"
+      },
+      {
+        "id": 3423560,
+        "nr": 6,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-6.jpg"
+      },
+      {
+        "id": 3423593,
+        "nr": 7,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-7.jpg"
+      },
+      {
+        "id": 3423631,
+        "nr": 8,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-8.jpg"
+      },
+      {
+        "id": 3423660,
+        "nr": 9,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-9.jpg"
+      },
+      {
+        "id": 3423697,
+        "nr": 10,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-10.jpg"
+      },
+      {
+        "id": 3423733,
+        "nr": 11,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-11.jpg"
+      },
+      {
+        "id": 3423754,
+        "nr": 12,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-12.jpg"
+      },
+      {
+        "id": 3423772,
+        "nr": 13,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-13.jpg"
+      },
+      {
+        "id": 3423795,
+        "nr": 14,
+        "picture": "https://images.pexels.com/videos/5823857/pictures/preview-14.jpg"
+      }
+    ]
+  }
 }

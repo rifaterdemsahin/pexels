@@ -1,8 +1,33 @@
 {
   "config_id": "test_image_001",
   "config_name": "futuristic_cityscape_test",
+  "prompt": "A futuristic cityscape at sunset",
+  "search_query": "futuristic cityscape sunset",
   "priority": "LOW",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "A futuristic cityscape at sunset"
+  "scene": "",
+  "pexels_photo_id": 1182334,
+  "pexels_url": "https://www.pexels.com/photo/time-lapse-photo-of-vehicles-on-street-near-building-at-sunset-1182334/",
+  "photographer": "zhang kaiyv",
+  "pexels_photo": {
+    "id": 1182334,
+    "width": 6000,
+    "height": 4000,
+    "url": "https://www.pexels.com/photo/time-lapse-photo-of-vehicles-on-street-near-building-at-sunset-1182334/",
+    "photographer": "zhang kaiyv",
+    "photographer_url": "https://www.pexels.com/@zhangkaiyv",
+    "photographer_id": 52377,
+    "avg_color": "#73685C",
+    "src": {
+      "original": "https://images.pexels.com/photos/1182334/pexels-photo-1182334.jpeg",
+      "large2x": "https://images.pexels.com/photos/1182334/pexels-photo-1182334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/1182334/pexels-photo-1182334.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/1182334/pexels-photo-1182334.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/1182334/pexels-photo-1182334.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/1182334/pexels-photo-1182334.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/1182334/pexels-photo-1182334.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/1182334/pexels-photo-1182334.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "A dynamic view of Beijing's skyline with traffic and skyscrapers at sunset."
+  }
 }

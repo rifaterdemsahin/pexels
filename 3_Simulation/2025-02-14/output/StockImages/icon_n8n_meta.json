@@ -1,8 +1,33 @@
 {
   "config_id": "icon_n8n",
   "config_name": "n8n_logo",
+  "prompt": "n8n workflow automation logo, orange and pink gradient nodes, minimalist flat design, clean vector style, isolated on white background",
+  "search_query": "n8n workflow automation logo, orange",
   "priority": "HIGH",
-  "asset_type": "image",
-  "note": "This is a placeholder file for demonstration purposes",
-  "prompt": "n8n workflow automation logo, orange and pink gradient nodes, minimalist flat design, clean vector style, isolated on white background"
+  "scene": "General",
+  "pexels_photo_id": 7097296,
+  "pexels_url": "https://www.pexels.com/photo/black-and-blue-industrial-machine-7097296/",
+  "photographer": "Opt Lasers from Poland",
+  "pexels_photo": {
+    "id": 7097296,
+    "width": 2000,
+    "height": 2000,
+    "url": "https://www.pexels.com/photo/black-and-blue-industrial-machine-7097296/",
+    "photographer": "Opt Lasers from Poland",
+    "photographer_url": "https://www.pexels.com/@optlasers",
+    "photographer_id": 33202468,
+    "avg_color": "#A29D9D",
+    "src": {
+      "original": "https://images.pexels.com/photos/7097296/pexels-photo-7097296.jpeg",
+      "large2x": "https://images.pexels.com/photos/7097296/pexels-photo-7097296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/7097296/pexels-photo-7097296.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/7097296/pexels-photo-7097296.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/7097296/pexels-photo-7097296.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/7097296/pexels-photo-7097296.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/7097296/pexels-photo-7097296.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/7097296/pexels-photo-7097296.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+    },
+    "liked": false,
+    "alt": "Detailed view of an industrial laser cutter with Opt Lasers component in operation."
+  }
 }
