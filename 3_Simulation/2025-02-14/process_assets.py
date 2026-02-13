@@ -164,9 +164,11 @@ def process_images(image_configs, fetcher, output_dir):
         else:
             print(f"  Prompt: '{prompt}'")
         
-        # Extract key words from the prompt to use as search query
-        # Simple heuristic: use first few meaningful words
-        search_query = ' '.join(prompt.split()[:5])
+        # Use search_query from config if available, otherwise extract from prompt
+        search_query = image_entry.get('search_query', '')
+        if not search_query:
+            # Simple heuristic: use first few meaningful words from prompt
+            search_query = ' '.join(prompt.split()[:5])
         print(f"  Search query: '{search_query}'")
         
         # Search for photos
@@ -239,18 +241,28 @@ def main():
     video_config = yaml_config.get('video', []) if yaml_config else []
     print(f"  ✓ Loaded {len(video_config)} video entries from batch_generation_data.yaml")
     
-    # 2. Load assets_config.json for images
+    # 2. Load images from batch_generation_data.yaml
+    yaml_images = yaml_config.get('images', []) if yaml_config else []
+    image_config = list(yaml_images)
+    print(f"  ✓ Loaded {len(yaml_images)} image entries from batch_generation_data.yaml")
+    
+    # 3. Load assets_config.json for images
     assets_json_path = os.path.join(input_dir, 'assets_config.json')
     assets_config = load_json(assets_json_path)
-    image_config = assets_config.get('images', []) if assets_config else []
-    print(f"  ✓ Loaded {len(image_config)} image entries from assets_config.json")
+    if assets_config:
+        existing_ids = {img.get('id') for img in image_config}
+        assets_images = [img for img in assets_config.get('images', []) if img.get('id') not in existing_ids]
+        image_config.extend(assets_images)
+        print(f"  ✓ Loaded {len(assets_images)} unique image entries from assets_config.json")
     
-    # 3. Load icons.json for icon images
+    # 4. Load icons.json for icon images
     icons_json_path = os.path.join(input_dir, 'icons.json')
     icons_config = load_json(icons_json_path)
     if icons_config and isinstance(icons_config, list):
-        image_config.extend(icons_config)
-        print(f"  ✓ Loaded {len(icons_config)} icon entries from icons.json")
+        existing_ids = {img.get('id') for img in image_config}
+        new_icons = [icon for icon in icons_config if icon.get('id') not in existing_ids]
+        image_config.extend(new_icons)
+        print(f"  ✓ Loaded {len(new_icons)} icon entries from icons.json")
     
     # Process videos
     if video_config:

@@ -85,22 +85,40 @@ def main():
                 meta_file = os.path.join(videos_dir, f"{video_id}_meta.json")
                 create_metadata(meta_file, video, "video")
     
-    # Load and process images from assets_config.json
-    assets_path = os.path.join(input_dir, 'assets_config.json')
+    # Load and process images from multiple sources
     image_configs = []
     
+    # 1. Images from batch_generation_data.yaml
+    if os.path.exists(yaml_path):
+        with open(yaml_path, 'r') as f:
+            config = yaml.safe_load(f)
+            yaml_images = config.get('images', [])
+            if yaml_images:
+                image_configs.extend(yaml_images)
+                print(f"  Loaded {len(yaml_images)} images from batch_generation_data.yaml")
+    
+    # 2. Images from assets_config.json
+    assets_path = os.path.join(input_dir, 'assets_config.json')
     if os.path.exists(assets_path):
         with open(assets_path, 'r') as f:
             assets = json.load(f)
-            image_configs.extend(assets.get('images', []))
+            assets_images = assets.get('images', [])
+            # Avoid duplicates by ID
+            existing_ids = {img.get('id') for img in image_configs}
+            new_images = [img for img in assets_images if img.get('id') not in existing_ids]
+            image_configs.extend(new_images)
+            print(f"  Loaded {len(new_images)} unique images from assets_config.json")
     
-    # Load and process icons
+    # 3. Icons from icons.json
     icons_path = os.path.join(input_dir, 'icons.json')
     if os.path.exists(icons_path):
         with open(icons_path, 'r') as f:
             icons = json.load(f)
             if isinstance(icons, list):
-                image_configs.extend(icons)
+                existing_ids = {img.get('id') for img in image_configs}
+                new_icons = [icon for icon in icons if icon.get('id') not in existing_ids]
+                image_configs.extend(new_icons)
+                print(f"  Loaded {len(new_icons)} icons from icons.json")
     
     if image_configs:
         print(f"\n{'='*60}")

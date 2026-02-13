@@ -1,7 +1,7 @@
 {
   "config_id": "test_image_001",
-  "config_name": null,
-  "priority": null,
+  "config_name": "futuristic_cityscape_test",
+  "priority": "LOW",
   "asset_type": "image",
   "note": "This is a placeholder file for demonstration purposes",
   "prompt": "A futuristic cityscape at sunset"

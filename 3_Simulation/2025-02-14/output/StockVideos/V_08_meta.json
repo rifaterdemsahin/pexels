@@ -1,0 +1,8 @@
+{
+  "config_id": "V_08",
+  "config_name": "smart_home_tech",
+  "priority": "MEDIUM",
+  "asset_type": "video",
+  "note": "This is a placeholder file for demonstration purposes",
+  "search_query": "smart speaker voice assistant home"
+}
