@@ -37,7 +37,8 @@ def create_metadata(filepath, config_data, asset_type="video"):
     if asset_type == "video":
         metadata["search_query"] = config_data.get("search_query")
     else:
-        metadata["prompt"] = config_data.get("prompt", "")[:100]
+        # Save the full prompt without truncation
+        metadata["prompt"] = config_data.get("prompt", "")
     
     with open(filepath, 'w') as f:
         json.dump(metadata, f, indent=2)

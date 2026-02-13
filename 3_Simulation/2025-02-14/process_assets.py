@@ -158,7 +158,11 @@ def process_images(image_configs, fetcher, output_dir):
         
         print(f"\n[{i}/{len(image_configs)}] Processing: {image_id} - {name}")
         print(f"  Priority: {priority}")
-        print(f"  Prompt: '{prompt[:80]}...'")
+        # Display prompt with smart truncation
+        if len(prompt) > 80:
+            print(f"  Prompt: '{prompt[:80]}...'")
+        else:
+            print(f"  Prompt: '{prompt}'")
         
         # Extract key words from the prompt to use as search query
         # Simple heuristic: use first few meaningful words

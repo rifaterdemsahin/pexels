@@ -65,7 +65,7 @@ Contains icon-specific image configurations, similar structure to assets_config.
 ### Running the Script
 
 ```bash
-cd /home/runner/work/pexels/pexels/3_Simulation/2025-02-14
+cd 3_Simulation/2025-02-14
 python3 process_assets.py
 ```
 
@@ -127,10 +127,10 @@ Metadata files include photographer information for proper attribution if desire
 
 ## Related Files
 
-- Main utilities: `/home/runner/work/pexels/pexels/5_Symbols/Utils/`
+- Main utilities: `5_Symbols/Utils/`
   - `pexels_video_fetcher.py`: Pexels API wrapper
   - `pexels_photo_fetcher.py`: Photo-specific methods
-- Batch generator: `/home/runner/work/pexels/pexels/5_Symbols/Generators/BatchAssetGenerator.py`
+- Batch generator: `5_Symbols/Generators/BatchAssetGenerator.py`
 
 ## Notes
 
